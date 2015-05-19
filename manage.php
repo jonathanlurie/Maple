@@ -9,21 +9,21 @@
 		<link href="http://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700" rel='stylesheet' />
 
 		<!-- The main CSS file -->
-		<link href="assets/css/style.css" rel="stylesheet" />
+		<link href="js/jqueryfileupload/css/style.css" rel="stylesheet" />
 
 
 
 		<!-- JavaScript Includes -->
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-		<script src="assets/js/jquery.knob.js"></script>
+		<script src="js/jqueryfileupload/js/jquery.knob.js"></script>
 
 		<!-- jQuery File Upload Dependencies -->
-		<script src="assets/js/jquery.ui.widget.js"></script>
-		<script src="assets/js/jquery.iframe-transport.js"></script>
-		<script src="assets/js/jquery.fileupload.js"></script>
+		<script src="js/jqueryfileupload/js/jquery.ui.widget.js"></script>
+		<script src="js/jqueryfileupload/js/jquery.iframe-transport.js"></script>
+		<script src="js/jqueryfileupload/js/jquery.fileupload.js"></script>
 
 		<!-- Our main JS file -->
-		<script src="assets/js/script.js"></script>
+		<script src="js/jqueryfileupload/js/script.js"></script>
 
 		<!-- own css -->
 		<link href="css/style.css" rel="stylesheet" />
