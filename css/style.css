@@ -1,0 +1,30 @@
+
+#title{
+  margin-top: 50px;
+}
+
+h2{
+  margin-bottom : 10px;
+}
+
+.grayDiv{
+  width : 400px;
+  margin-left : auto;
+  margin-right : auto;
+  padding : 30px;
+
+
+  background-color:#AAA;
+
+}
+
+.margin-10{
+    margin-top : 10px;
+}
+
+.displayButton{
+  margin-top : 20px;
+  width : 100px;
+  height : 35px;
+
+}

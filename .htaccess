@@ -1,0 +1,14 @@
+
+
+Options +FollowSymlinks
+RewriteEngine on
+RewriteRule ^display*$ /display.html$1 [L]
+
+RewriteRule ^manage$ /manage.php$1 [L]
+
+
+
+#<Files "manage.php">
+#Order Allow,Deny
+#Deny from all
+#</Files>

@@ -164,7 +164,6 @@ while(gup('marker' + MarkerIndex)){
 
 
 
-
 // from url arguments, the image to load and display
 imageArgument = gup('image');
 imageFilesToLoad = [];
@@ -189,7 +188,7 @@ if(controlArgument){
 
 // creating the main map
 var map = new L.Map('map',  {zoomControl: false, center: new L.LatLng(0, 0), zoom: 11});
-map.attributionControl.setPrefix('<a href="http://github.com" target="_blank"><img src="icons/maple_logo" height="20px"></a>');
+map.attributionControl.setPrefix('<a href="https://github.com/jonathanlurie/Maple" target="_blank"><img src="icons/maple_logo_micro.png" height="20px"></a>');
 
 
 // plugin that displays a little house
@@ -403,6 +402,27 @@ if(!gpxFilesToLoad && !markersArray.length && !positionArgument && !imagesInUrl.
 
 // default map design
 map.addLayer(baseMaps[skin]);
+
+
+
+
+
+
+//Right click on the map activated
+map.on('contextmenu', function(e) {
+  //alert(e.latlng);
+
+	lat = e.latlng.lat.toFixed(5);
+	lon = e.latlng.lng.toFixed(5);
+	mapleUrl = getBaseUrl() + "?marker1=" + lat + "|" + lon + "|this__place";
+	gglurl = 'https://www.google.com/maps?q=' + lat + ',' + lon;
+
+	bootbox.dialog({
+  	title: "Click position",
+  	message: 'Latitude longitude <h1>' + lat + " " + lon + '</h1>Quick Maple link : <br><a href="' + mapleUrl + '" target="_blank">' + mapleUrl + '</a><br><br><a href="' + gglurl + '" target="_blank">Or display this place on Google Map.</a>'
+	});
+});
+
 
 
 if(showControls){

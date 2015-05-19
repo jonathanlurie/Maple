@@ -1,0 +1,3410 @@
+<?xml version="1.0"?>
+<gpx creator="GPS Visualizer http://www.gpsvisualizer.com/" version="1.0" xmlns="http://www.topografix.com/GPX/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<wpt lat="48.430381" lon="-71.051393">
+  <ele>-6.1</ele>
+  <time>2013-08-29T21:54:03Z</time>
+  <name>2013-08-29 16:04:16 Day-0</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.051393 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.430381 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -6.110 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 22.6 meters/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 320.0 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T21:54:03Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-none.png</sym>
+</wpt>
+<wpt lat="48.430379" lon="-71.049603">
+  <ele>-5.6</ele>
+  <time>2013-08-29T21:57:43Z</time>
+  <name>2013-08-29 16:04:16 Day-1</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.049603 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.430379 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -5.630 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 2.2 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 90.1 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T21:57:43Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-none.png</sym>
+</wpt>
+<wpt lat="48.430514" lon="-71.047568">
+  <ele>-4.7</ele>
+  <time>2013-08-29T22:00:33Z</time>
+  <name>2013-08-29 16:04:16 Day-2</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.047568 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.430514 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -4.670 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 3.2 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 84.3 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:00:33Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-none.png</sym>
+</wpt>
+<wpt lat="48.430415" lon="-71.047367">
+  <ele>-4.7</ele>
+  <time>2013-08-29T22:01:13Z</time>
+  <name>2013-08-29 16:04:16 Day-3</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.047367 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.430415 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -4.670 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 1.7 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 126.4 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:01:13Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-none.png</sym>
+</wpt>
+<wpt lat="48.431876" lon="-71.045735">
+  <ele>-4.2</ele>
+  <time>2013-08-29T22:02:43Z</time>
+  <name>2013-08-29 16:04:16 Day-4</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.045735 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.431876 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -4.190 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 8.1 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 36.6 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:02:43Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-2.png</sym>
+</wpt>
+<wpt lat="48.432014" lon="-71.045327">
+  <ele>-4.7</ele>
+  <time>2013-08-29T22:03:03Z</time>
+  <name>2013-08-29 16:04:16 Day-5</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.045327 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.432014 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -4.670 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 6.1 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 63.0 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:03:03Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-3.png</sym>
+</wpt>
+<wpt lat="48.433029" lon="-71.043307">
+  <ele>-4.7</ele>
+  <time>2013-08-29T22:07:43Z</time>
+  <name>2013-08-29 16:04:16 Day-6</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.043307 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.433029 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -4.670 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 2.4 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 52.9 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:07:43Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-none.png</sym>
+</wpt>
+<wpt lat="48.433278" lon="-71.043056">
+  <ele>-4.2</ele>
+  <time>2013-08-29T22:08:23Z</time>
+  <name>2013-08-29 16:04:16 Day-7</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.043056 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.433278 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -4.190 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 3.0 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 33.8 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:08:23Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-none.png</sym>
+</wpt>
+<wpt lat="48.432885" lon="-71.042394">
+  <ele>-4.2</ele>
+  <time>2013-08-29T22:08:53Z</time>
+  <name>2013-08-29 16:04:16 Day-8</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.042394 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.432885 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -4.190 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 7.9 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 131.8 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:08:53Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-6.png</sym>
+</wpt>
+<wpt lat="48.432313" lon="-71.040858">
+  <ele>-5.2</ele>
+  <time>2013-08-29T22:09:33Z</time>
+  <name>2013-08-29 16:04:16 Day-9</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.040858 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.432313 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -5.150 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 11.7 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 119.3 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:09:33Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-5.png</sym>
+</wpt>
+<wpt lat="48.431968" lon="-71.04027">
+  <ele>-4.7</ele>
+  <time>2013-08-29T22:09:53Z</time>
+  <name>2013-08-29 16:04:16 Day-10</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.040270 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.431968 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -4.670 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 10.4 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 131.5 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:09:53Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-6.png</sym>
+</wpt>
+<wpt lat="48.430802" lon="-71.038902">
+  <ele>-4.7</ele>
+  <time>2013-08-29T22:10:53Z</time>
+  <name>2013-08-29 16:04:16 Day-11</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.038902 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.430802 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -4.670 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 9.9 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 142.1 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:10:53Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-6.png</sym>
+</wpt>
+<wpt lat="48.43061" lon="-71.03845">
+  <ele>-5.2</ele>
+  <time>2013-08-29T22:11:13Z</time>
+  <name>2013-08-29 16:04:16 Day-12</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.038450 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.430610 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -5.150 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 7.1 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 122.6 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:11:13Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-5.png</sym>
+</wpt>
+<wpt lat="48.430496" lon="-71.038316">
+  <ele>-5.2</ele>
+  <time>2013-08-29T22:11:23Z</time>
+  <name>2013-08-29 16:04:16 Day-13</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.038316 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.430496 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -5.150 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 5.8 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 142.1 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:11:23Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-6.png</sym>
+</wpt>
+<wpt lat="48.430552" lon="-71.038172">
+  <ele>-5.2</ele>
+  <time>2013-08-29T22:11:33Z</time>
+  <name>2013-08-29 16:04:16 Day-14</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.038172 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.430552 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -5.150 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 4.4 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 59.3 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:11:33Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-3.png</sym>
+</wpt>
+<wpt lat="48.431631" lon="-71.037789">
+  <ele>-5.2</ele>
+  <time>2013-08-29T22:12:33Z</time>
+  <name>2013-08-29 16:04:16 Day-15</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.037789 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.431631 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -5.150 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 7.4 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 13.3 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:12:33Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-1.png</sym>
+</wpt>
+<wpt lat="48.432324" lon="-71.03729">
+  <ele>-5.2</ele>
+  <time>2013-08-29T22:13:03Z</time>
+  <name>2013-08-29 16:04:16 Day-16</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.037290 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.432324 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -5.150 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 10.3 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 25.6 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:13:03Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-1.png</sym>
+</wpt>
+<wpt lat="48.432994" lon="-71.036682">
+  <ele>-5.2</ele>
+  <time>2013-08-29T22:13:33Z</time>
+  <name>2013-08-29 16:04:16 Day-17</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.036682 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.432994 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -5.150 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 10.4 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 31.1 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:13:33Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-1.png</sym>
+</wpt>
+<wpt lat="48.433701" lon="-71.036285">
+  <ele>-5.2</ele>
+  <time>2013-08-29T22:14:03Z</time>
+  <name>2013-08-29 16:04:16 Day-18</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.036285 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.433701 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -5.150 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 10.1 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 20.4 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:14:03Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-1.png</sym>
+</wpt>
+<wpt lat="48.434428" lon="-71.0361">
+  <ele>-5.2</ele>
+  <time>2013-08-29T22:14:33Z</time>
+  <name>2013-08-29 16:04:16 Day-19</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.036100 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.434428 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -5.150 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 9.8 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 9.6 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:14:33Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-0.png</sym>
+</wpt>
+<wpt lat="48.434407" lon="-71.035852">
+  <ele>-6.1</ele>
+  <time>2013-08-29T22:14:43Z</time>
+  <name>2013-08-29 16:04:16 Day-20</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.035852 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.434407 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -6.110 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 6.6 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 97.1 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:14:43Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-4.png</sym>
+</wpt>
+<wpt lat="48.433642" lon="-71.033747">
+  <ele>-4.7</ele>
+  <time>2013-08-29T22:15:43Z</time>
+  <name>2013-08-29 16:04:16 Day-21</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.033747 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.433642 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -4.670 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 10.6 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 118.7 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:15:43Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-5.png</sym>
+</wpt>
+<wpt lat="48.433639" lon="-71.033424">
+  <ele>-5.6</ele>
+  <time>2013-08-29T22:15:53Z</time>
+  <name>2013-08-29 16:04:16 Day-22</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.033424 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.433639 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -5.630 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 8.6 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 90.9 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:15:53Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-4.png</sym>
+</wpt>
+<wpt lat="48.435626" lon="-71.032">
+  <ele>-4.7</ele>
+  <time>2013-08-29T22:17:23Z</time>
+  <name>2013-08-29 16:04:16 Day-23</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.032000 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.435626 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -4.670 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 9.8 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 25.4 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:17:23Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-1.png</sym>
+</wpt>
+<wpt lat="48.435728" lon="-71.031851">
+  <ele>-5.6</ele>
+  <time>2013-08-29T22:17:33Z</time>
+  <name>2013-08-29 16:04:16 Day-24</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.031851 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.435728 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -5.630 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 5.7 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 44.0 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:17:33Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-2.png</sym>
+</wpt>
+<wpt lat="48.43585" lon="-71.030024">
+  <ele>-5.6</ele>
+  <time>2013-08-29T22:21:43Z</time>
+  <name>2013-08-29 16:04:16 Day-25</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.030024 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.435850 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -5.630 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 2.0 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 84.3 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:21:43Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-none.png</sym>
+</wpt>
+<wpt lat="48.435371" lon="-71.028794">
+  <ele>-6.1</ele>
+  <time>2013-08-29T22:22:33Z</time>
+  <name>2013-08-29 16:04:16 Day-26</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.028794 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.435371 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -6.110 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 7.6 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 120.4 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:22:33Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-5.png</sym>
+</wpt>
+<wpt lat="48.435424" lon="-71.02859">
+  <ele>-5.6</ele>
+  <time>2013-08-29T22:22:43Z</time>
+  <name>2013-08-29 16:04:16 Day-27</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.028590 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.435424 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -5.630 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 5.8 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 68.7 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:22:43Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-3.png</sym>
+</wpt>
+<wpt lat="48.435851" lon="-71.028576">
+  <ele>-5.6</ele>
+  <time>2013-08-29T22:23:03Z</time>
+  <name>2013-08-29 16:04:16 Day-28</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.028576 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.435851 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -5.630 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 8.6 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 1.3 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:23:03Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-0.png</sym>
+</wpt>
+<wpt lat="48.436371" lon="-71.028442">
+  <ele>-5.6</ele>
+  <time>2013-08-29T22:23:23Z</time>
+  <name>2013-08-29 16:04:16 Day-29</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.028442 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.436371 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -5.630 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 10.6 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 9.7 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:23:23Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-0.png</sym>
+</wpt>
+<wpt lat="48.436624" lon="-71.028215">
+  <ele>-5.2</ele>
+  <time>2013-08-29T22:23:33Z</time>
+  <name>2013-08-29 16:04:16 Day-30</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.028215 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.436624 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -5.150 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 11.8 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 30.8 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:23:33Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-1.png</sym>
+</wpt>
+<wpt lat="48.43776" lon="-71.02772">
+  <ele>-6.1</ele>
+  <time>2013-08-29T22:24:13Z</time>
+  <name>2013-08-29 16:04:16 Day-31</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.027720 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.437760 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -6.110 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 11.8 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 16.1 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:24:13Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-1.png</sym>
+</wpt>
+<wpt lat="48.439131" lon="-71.026999">
+  <ele>-5.2</ele>
+  <time>2013-08-29T22:25:03Z</time>
+  <name>2013-08-29 16:04:16 Day-32</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.026999 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.439131 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -5.150 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 11.6 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 19.2 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:25:03Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-1.png</sym>
+</wpt>
+<wpt lat="48.439667" lon="-71.026554">
+  <ele>-5.2</ele>
+  <time>2013-08-29T22:25:23Z</time>
+  <name>2013-08-29 16:04:16 Day-33</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.026554 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.439667 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -5.150 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 12.3 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 28.8 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:25:23Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-1.png</sym>
+</wpt>
+<wpt lat="48.440659" lon="-71.026119">
+  <ele>-5.2</ele>
+  <time>2013-08-29T22:26:03Z</time>
+  <name>2013-08-29 16:04:16 Day-34</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.026119 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.440659 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -5.150 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 10.4 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 16.2 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:26:03Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-1.png</sym>
+</wpt>
+<wpt lat="48.4423" lon="-71.024413">
+  <ele>-5.6</ele>
+  <time>2013-08-29T22:27:13Z</time>
+  <name>2013-08-29 16:04:16 Day-35</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.024413 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.442300 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -5.630 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 11.4 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 34.6 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:27:13Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-2.png</sym>
+</wpt>
+<wpt lat="48.443047" lon="-71.023926">
+  <ele>-4.7</ele>
+  <time>2013-08-29T22:27:43Z</time>
+  <name>2013-08-29 16:04:16 Day-36</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.023926 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.443047 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -4.670 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 10.9 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 23.4 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:27:43Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-1.png</sym>
+</wpt>
+<wpt lat="48.444239" lon="-71.022691">
+  <ele>-4.7</ele>
+  <time>2013-08-29T22:28:43Z</time>
+  <name>2013-08-29 16:04:16 Day-37</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.022691 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.444239 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -4.670 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 9.7 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 34.5 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:28:43Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-2.png</sym>
+</wpt>
+<wpt lat="48.444591" lon="-71.022189">
+  <ele>-4.7</ele>
+  <time>2013-08-29T22:29:03Z</time>
+  <name>2013-08-29 16:04:16 Day-38</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.022189 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.444591 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -4.670 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 9.7 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 43.4 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:29:03Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-2.png</sym>
+</wpt>
+<wpt lat="48.446588" lon="-71.020293">
+  <ele>-4.2</ele>
+  <time>2013-08-29T22:30:33Z</time>
+  <name>2013-08-29 16:04:16 Day-39</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.020293 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.446588 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -4.190 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 10.5 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 32.2 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:30:33Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-1.png</sym>
+</wpt>
+<wpt lat="48.447371" lon="-71.01922">
+  <ele>-4.7</ele>
+  <time>2013-08-29T22:31:13Z</time>
+  <name>2013-08-29 16:04:16 Day-40</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.019220 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.447371 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -4.670 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 10.6 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 42.3 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:31:13Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-2.png</sym>
+</wpt>
+<wpt lat="48.447816" lon="-71.018722">
+  <ele>-4.7</ele>
+  <time>2013-08-29T22:31:33Z</time>
+  <name>2013-08-29 16:04:16 Day-41</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.018722 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.447816 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -4.670 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 11.1 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 36.6 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:31:33Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-2.png</sym>
+</wpt>
+<wpt lat="48.448532" lon="-71.018108">
+  <ele>-3.7</ele>
+  <time>2013-08-29T22:32:03Z</time>
+  <name>2013-08-29 16:04:16 Day-42</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.018108 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.448532 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -3.710 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 11.0 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 29.6 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:32:03Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-1.png</sym>
+</wpt>
+<wpt lat="48.451186" lon="-71.014927">
+  <ele>-3.2</ele>
+  <time>2013-08-29T22:34:03Z</time>
+  <name>2013-08-29 16:04:16 Day-43</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.014927 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.451186 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -3.230 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 11.3 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 38.5 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:34:03Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-2.png</sym>
+</wpt>
+<wpt lat="48.452156" lon="-71.013371">
+  <ele>-3.7</ele>
+  <time>2013-08-29T22:34:53Z</time>
+  <name>2013-08-29 16:04:16 Day-44</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.013371 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.452156 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -3.710 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 11.3 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 46.8 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:34:53Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-2.png</sym>
+</wpt>
+<wpt lat="48.454933" lon="-71.009239">
+  <ele>-3.2</ele>
+  <time>2013-08-29T22:37:13Z</time>
+  <name>2013-08-29 16:04:16 Day-45</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.009239 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.454933 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -3.230 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 11.2 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 44.6 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:37:13Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-2.png</sym>
+</wpt>
+<wpt lat="48.455264" lon="-71.008606">
+  <ele>-2.3</ele>
+  <time>2013-08-29T22:37:33Z</time>
+  <name>2013-08-29 16:04:16 Day-46</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.008606 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.455264 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -2.270 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 10.7 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 51.8 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:37:33Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-2.png</sym>
+</wpt>
+<wpt lat="48.455293" lon="-71.008364">
+  <ele>-3.2</ele>
+  <time>2013-08-29T22:37:43Z</time>
+  <name>2013-08-29 16:04:16 Day-47</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.008364 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.455293 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -3.230 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 6.5 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 79.6 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:37:43Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-4.png</sym>
+</wpt>
+<wpt lat="48.454893" lon="-71.008267">
+  <ele>-2.3</ele>
+  <time>2013-08-29T22:38:03Z</time>
+  <name>2013-08-29 16:04:16 Day-48</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.008267 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.454893 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -2.270 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 8.1 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 170.9 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:38:03Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-8.png</sym>
+</wpt>
+<wpt lat="48.452938" lon="-71.006684">
+  <ele>-1.8</ele>
+  <time>2013-08-29T22:39:33Z</time>
+  <name>2013-08-29 16:04:16 Day-49</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.006684 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.452938 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -1.790 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 9.9 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 151.8 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:39:33Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-7.png</sym>
+</wpt>
+<wpt lat="48.451856" lon="-71.005691">
+  <ele>-2.3</ele>
+  <time>2013-08-29T22:40:23Z</time>
+  <name>2013-08-29 16:04:16 Day-50</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.005691 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.451856 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -2.270 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 10.2 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 148.7 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:40:23Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-7.png</sym>
+</wpt>
+<wpt lat="48.451242" lon="-71.004984">
+  <ele>-1.3</ele>
+  <time>2013-08-29T22:40:53Z</time>
+  <name>2013-08-29 16:04:16 Day-51</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.004984 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.451242 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -1.300 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 10.3 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 142.6 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:40:53Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-6.png</sym>
+</wpt>
+<wpt lat="48.450364" lon="-71.004144">
+  <ele>-1.3</ele>
+  <time>2013-08-29T22:41:33Z</time>
+  <name>2013-08-29 16:04:16 Day-52</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.004144 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.450364 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -1.300 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 10.4 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 147.6 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:41:33Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-7.png</sym>
+</wpt>
+<wpt lat="48.450689" lon="-71.003814">
+  <ele>-0.8</ele>
+  <time>2013-08-29T22:41:53Z</time>
+  <name>2013-08-29 16:04:16 Day-53</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.003814 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.450689 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -0.820 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 7.8 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 34.0 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:41:53Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-2.png</sym>
+</wpt>
+<wpt lat="48.451916" lon="-71.001558">
+  <ele>-1.3</ele>
+  <time>2013-08-29T22:43:03Z</time>
+  <name>2013-08-29 16:04:16 Day-54</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.001558 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.451916 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -1.300 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 11.1 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 50.6 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:43:03Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-2.png</sym>
+</wpt>
+<wpt lat="48.452387" lon="-71.000545">
+  <ele>-1.8</ele>
+  <time>2013-08-29T22:43:33Z</time>
+  <name>2013-08-29 16:04:16 Day-55</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.000545 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.452387 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -1.790 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 11.0 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 55.0 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:43:33Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-2.png</sym>
+</wpt>
+<wpt lat="48.453332" lon="-70.99891">
+  <ele>-1.8</ele>
+  <time>2013-08-29T22:44:23Z</time>
+  <name>2013-08-29 16:04:16 Day-56</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.998910 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.453332 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -1.790 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 11.5 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 48.9 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:44:23Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-2.png</sym>
+</wpt>
+<wpt lat="48.454853" lon="-70.996895">
+  <ele>-1.8</ele>
+  <time>2013-08-29T22:45:33Z</time>
+  <name>2013-08-29 16:04:16 Day-57</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.996895 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.454853 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -1.790 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 11.6 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 41.3 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:45:33Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-2.png</sym>
+</wpt>
+<wpt lat="48.455336" lon="-70.995955">
+  <ele>-1.3</ele>
+  <time>2013-08-29T22:46:03Z</time>
+  <name>2013-08-29 16:04:16 Day-58</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.995955 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.455336 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -1.300 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 10.5 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 52.2 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:46:03Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-2.png</sym>
+</wpt>
+<wpt lat="48.456889" lon="-70.993303">
+  <ele>-1.8</ele>
+  <time>2013-08-29T22:47:33Z</time>
+  <name>2013-08-29 16:04:16 Day-59</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.993303 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.456889 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -1.790 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 10.4 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 48.6 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:47:33Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-2.png</sym>
+</wpt>
+<wpt lat="48.457831" lon="-70.991523">
+  <ele>-1.3</ele>
+  <time>2013-08-29T22:48:33Z</time>
+  <name>2013-08-29 16:04:16 Day-60</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.991523 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.457831 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -1.300 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 10.1 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 51.4 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:48:33Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-2.png</sym>
+</wpt>
+<wpt lat="48.458357" lon="-70.990749">
+  <ele>-1.8</ele>
+  <time>2013-08-29T22:49:03Z</time>
+  <name>2013-08-29 16:04:16 Day-61</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.990749 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.458357 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -1.790 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 9.8 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 44.3 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:49:03Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-2.png</sym>
+</wpt>
+<wpt lat="48.456103" lon="-70.989689">
+  <ele>-1.3</ele>
+  <time>2013-08-29T22:50:43Z</time>
+  <name>2013-08-29 16:04:16 Day-62</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.989689 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.456103 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -1.300 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 9.5 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 162.7 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:50:43Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-7.png</sym>
+</wpt>
+<wpt lat="48.454696" lon="-70.988773">
+  <ele>-0.8</ele>
+  <time>2013-08-29T22:51:43Z</time>
+  <name>2013-08-29 16:04:16 Day-63</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.988773 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.454696 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -0.820 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 10.2 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 156.6 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:51:43Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-7.png</sym>
+</wpt>
+<wpt lat="48.454179" lon="-70.98859">
+  <ele>-0.8</ele>
+  <time>2013-08-29T22:52:03Z</time>
+  <name>2013-08-29 16:04:16 Day-64</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.988590 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.454179 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -0.820 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 10.6 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 166.8 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:52:03Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-7.png</sym>
+</wpt>
+<wpt lat="48.451991" lon="-70.987062">
+  <ele>-0.3</ele>
+  <time>2013-08-29T22:53:33Z</time>
+  <name>2013-08-29 16:04:16 Day-65</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.987062 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.451991 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -0.340 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 10.7 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 155.2 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:53:33Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-7.png</sym>
+</wpt>
+<wpt lat="48.449213" lon="-70.984839">
+  <ele>-0.3</ele>
+  <time>2013-08-29T22:55:33Z</time>
+  <name>2013-08-29 16:04:16 Day-66</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.984839 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.449213 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -0.340 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 10.5 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 152.0 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:55:33Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-7.png</sym>
+</wpt>
+<wpt lat="48.447663" lon="-70.98387">
+  <ele>0.6</ele>
+  <time>2013-08-29T22:56:43Z</time>
+  <name>2013-08-29 16:04:16 Day-67</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.983870 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.447663 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 0.620 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 9.6 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 157.5 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:56:43Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-7.png</sym>
+</wpt>
+<wpt lat="48.445335" lon="-70.98274">
+  <ele>0.6</ele>
+  <time>2013-08-29T22:58:23Z</time>
+  <name>2013-08-29 16:04:16 Day-68</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.982740 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.445335 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 0.620 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 9.8 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 162.1 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:58:23Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-7.png</sym>
+</wpt>
+<wpt lat="48.445289" lon="-70.982601">
+  <ele>0.6</ele>
+  <time>2013-08-29T22:58:33Z</time>
+  <name>2013-08-29 16:04:16 Day-69</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.982601 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.445289 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 0.620 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 4.1 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 116.7 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:58:33Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-5.png</sym>
+</wpt>
+<wpt lat="48.445469" lon="-70.982456">
+  <ele>0.6</ele>
+  <time>2013-08-29T22:58:43Z</time>
+  <name>2013-08-29 16:04:16 Day-70</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.982456 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.445469 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 0.620 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 8.2 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 28.1 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:58:43Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-1.png</sym>
+</wpt>
+<wpt lat="48.446043" lon="-70.981383">
+  <ele>1.1</ele>
+  <time>2013-08-29T22:59:23Z</time>
+  <name>2013-08-29 16:04:16 Day-71</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.981383 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.446043 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 1.100 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 9.2 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 51.1 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T22:59:23Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-2.png</sym>
+</wpt>
+<wpt lat="48.446874" lon="-70.980117">
+  <ele>0.6</ele>
+  <time>2013-08-29T23:00:13Z</time>
+  <name>2013-08-29 16:04:16 Day-72</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.980117 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.446874 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 0.620 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 9.5 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 45.3 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:00:13Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-2.png</sym>
+</wpt>
+<wpt lat="48.447724" lon="-70.978375">
+  <ele>1.1</ele>
+  <time>2013-08-29T23:01:13Z</time>
+  <name>2013-08-29 16:04:16 Day-73</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.978375 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.447724 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 1.100 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 9.6 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 53.7 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:01:13Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-2.png</sym>
+</wpt>
+<wpt lat="48.448403" lon="-70.977323">
+  <ele>0.1</ele>
+  <time>2013-08-29T23:01:53Z</time>
+  <name>2013-08-29 16:04:16 Day-74</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.977323 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.448403 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 0.140 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 9.8 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 45.8 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:01:53Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-2.png</sym>
+</wpt>
+<wpt lat="48.447712" lon="-70.976758">
+  <ele>0.1</ele>
+  <time>2013-08-29T23:02:33Z</time>
+  <name>2013-08-29 16:04:16 Day-75</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.976758 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.447712 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 0.140 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 7.9 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 151.6 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:02:33Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-7.png</sym>
+</wpt>
+<wpt lat="48.445246" lon="-70.975249">
+  <ele>0.6</ele>
+  <time>2013-08-29T23:04:23Z</time>
+  <name>2013-08-29 16:04:16 Day-76</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.975249 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.445246 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 0.620 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 9.7 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 157.9 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:04:23Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-7.png</sym>
+</wpt>
+<wpt lat="48.444195" lon="-70.974434">
+  <ele>0.6</ele>
+  <time>2013-08-29T23:05:13Z</time>
+  <name>2013-08-29 16:04:16 Day-77</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.974434 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.444195 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 0.620 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 9.5 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 152.8 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:05:13Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-7.png</sym>
+</wpt>
+<wpt lat="48.442854" lon="-70.973629">
+  <ele>0.1</ele>
+  <time>2013-08-29T23:06:13Z</time>
+  <name>2013-08-29 16:04:16 Day-78</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.973629 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.442854 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 0.140 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 9.6 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 158.3 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:06:13Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-7.png</sym>
+</wpt>
+<wpt lat="48.442772" lon="-70.973485">
+  <ele>0.1</ele>
+  <time>2013-08-29T23:06:23Z</time>
+  <name>2013-08-29 16:04:16 Day-79</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.973485 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.442772 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 0.140 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 5.0 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 130.9 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:06:23Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-6.png</sym>
+</wpt>
+<wpt lat="48.442932" lon="-70.973335">
+  <ele>0.1</ele>
+  <time>2013-08-29T23:06:33Z</time>
+  <name>2013-08-29 16:04:16 Day-80</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.973335 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.442932 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 0.140 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 7.6 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 31.7 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:06:33Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-1.png</sym>
+</wpt>
+<wpt lat="48.443362" lon="-70.972598">
+  <ele>0.1</ele>
+  <time>2013-08-29T23:07:03Z</time>
+  <name>2013-08-29 16:04:16 Day-81</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.972598 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.443362 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 0.140 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 8.7 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 48.7 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:07:03Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-2.png</sym>
+</wpt>
+<wpt lat="48.443622" lon="-70.972019">
+  <ele>0.1</ele>
+  <time>2013-08-29T23:07:23Z</time>
+  <name>2013-08-29 16:04:16 Day-82</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.972019 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.443622 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 0.140 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 9.3 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 56.0 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:07:23Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-2.png</sym>
+</wpt>
+<wpt lat="48.444451" lon="-70.970696">
+  <ele>0.1</ele>
+  <time>2013-08-29T23:08:13Z</time>
+  <name>2013-08-29 16:04:16 Day-83</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.970696 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.444451 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 0.140 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 9.7 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 46.6 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:08:13Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-2.png</sym>
+</wpt>
+<wpt lat="48.445537" lon="-70.968732">
+  <ele>-0.3</ele>
+  <time>2013-08-29T23:09:23Z</time>
+  <name>2013-08-29 16:04:16 Day-84</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.968732 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.445537 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -0.340 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 9.7 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 50.2 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:09:23Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-2.png</sym>
+</wpt>
+<wpt lat="48.4464" lon="-70.966985">
+  <ele>-0.3</ele>
+  <time>2013-08-29T23:10:23Z</time>
+  <name>2013-08-29 16:04:16 Day-85</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.966985 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.446400 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -0.340 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 9.7 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 53.3 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:10:23Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-2.png</sym>
+</wpt>
+<wpt lat="48.447173" lon="-70.965125">
+  <ele>0.1</ele>
+  <time>2013-08-29T23:11:23Z</time>
+  <name>2013-08-29 16:04:16 Day-86</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.965125 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.447173 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 0.140 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 9.7 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 57.9 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:11:23Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-3.png</sym>
+</wpt>
+<wpt lat="48.447706" lon="-70.964311">
+  <ele>-0.3</ele>
+  <time>2013-08-29T23:11:53Z</time>
+  <name>2013-08-29 16:04:16 Day-87</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.964311 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.447706 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -0.340 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 10.1 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 45.3 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:11:53Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-2.png</sym>
+</wpt>
+<wpt lat="48.448169" lon="-70.963452">
+  <ele>0.1</ele>
+  <time>2013-08-29T23:12:23Z</time>
+  <name>2013-08-29 16:04:16 Day-88</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.963452 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.448169 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 0.140 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 9.8 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 50.9 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:12:23Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-2.png</sym>
+</wpt>
+<wpt lat="48.449224" lon="-70.962546">
+  <ele>-0.3</ele>
+  <time>2013-08-29T23:13:13Z</time>
+  <name>2013-08-29 16:04:16 Day-89</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.962546 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.449224 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -0.340 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 9.7 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 29.7 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:13:13Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-1.png</sym>
+</wpt>
+<wpt lat="48.449375" lon="-70.962325">
+  <ele>-0.8</ele>
+  <time>2013-08-29T23:13:23Z</time>
+  <name>2013-08-29 16:04:16 Day-90</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.962325 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.449375 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -0.820 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 8.4 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 44.2 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:13:23Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-2.png</sym>
+</wpt>
+<wpt lat="48.449765" lon="-70.962004">
+  <ele>-0.3</ele>
+  <time>2013-08-29T23:13:43Z</time>
+  <name>2013-08-29 16:04:16 Day-91</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.962004 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.449765 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -0.340 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 8.9 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 28.6 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:13:43Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-1.png</sym>
+</wpt>
+<wpt lat="48.450038" lon="-70.961516">
+  <ele>-0.3</ele>
+  <time>2013-08-29T23:14:03Z</time>
+  <name>2013-08-29 16:04:16 Day-92</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.961516 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.450038 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -0.340 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 8.5 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 49.9 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:14:03Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-2.png</sym>
+</wpt>
+<wpt lat="48.451048" lon="-70.960323">
+  <ele>-0.3</ele>
+  <time>2013-08-29T23:15:03Z</time>
+  <name>2013-08-29 16:04:16 Day-93</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.960323 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.451048 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -0.340 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 8.6 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 38.1 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:15:03Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-2.png</sym>
+</wpt>
+<wpt lat="48.45145" lon="-70.960032">
+  <ele>-0.8</ele>
+  <time>2013-08-29T23:15:23Z</time>
+  <name>2013-08-29 16:04:16 Day-94</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.960032 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.451450 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -0.820 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 8.9 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 25.7 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:15:23Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-1.png</sym>
+</wpt>
+<wpt lat="48.451452" lon="-70.959894">
+  <ele>-1.3</ele>
+  <time>2013-08-29T23:15:33Z</time>
+  <name>2013-08-29 16:04:16 Day-95</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.959894 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.451452 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -1.300 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 3.7 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 88.6 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:15:33Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-4.png</sym>
+</wpt>
+<wpt lat="48.45103" lon="-70.95995">
+  <ele>-0.3</ele>
+  <time>2013-08-29T23:16:23Z</time>
+  <name>2013-08-29 16:04:16 Day-96</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.959950 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.451030 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -0.340 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 3.4 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 185.1 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:16:23Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-none.png</sym>
+</wpt>
+<wpt lat="48.450706" lon="-70.959716">
+  <ele>-0.8</ele>
+  <time>2013-08-29T23:16:43Z</time>
+  <name>2013-08-29 16:04:16 Day-97</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.959716 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.450706 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -0.820 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 7.2 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 154.4 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:16:43Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-7.png</sym>
+</wpt>
+<wpt lat="48.449904" lon="-70.958503">
+  <ele>-1.3</ele>
+  <time>2013-08-29T23:18:03Z</time>
+  <name>2013-08-29 16:04:16 Day-98</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.958503 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.449904 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -1.300 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 5.7 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 134.9 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:18:03Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-6.png</sym>
+</wpt>
+<wpt lat="48.449326" lon="-70.957979">
+  <ele>-1.3</ele>
+  <time>2013-08-29T23:18:43Z</time>
+  <name>2013-08-29 16:04:16 Day-99</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.957979 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.449326 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -1.300 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 6.8 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 149.0 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:18:43Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-7.png</sym>
+</wpt>
+<wpt lat="48.449142" lon="-70.957904">
+  <ele>-1.3</ele>
+  <time>2013-08-29T23:18:53Z</time>
+  <name>2013-08-29 16:04:16 Day-100</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.957904 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.449142 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -1.300 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 7.6 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 164.8 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:18:53Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-7.png</sym>
+</wpt>
+<wpt lat="48.448588" lon="-70.957275">
+  <ele>-1.3</ele>
+  <time>2013-08-29T23:19:43Z</time>
+  <name>2013-08-29 16:04:16 Day-101</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.957275 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.448588 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -1.300 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 5.6 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 143.0 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:19:43Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-6.png</sym>
+</wpt>
+<wpt lat="48.448032" lon="-70.956924">
+  <ele>-1.3</ele>
+  <time>2013-08-29T23:20:13Z</time>
+  <name>2013-08-29 16:04:16 Day-102</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.956924 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.448032 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -1.300 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 8.1 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 157.3 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:20:13Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-7.png</sym>
+</wpt>
+<wpt lat="48.447052" lon="-70.955995">
+  <ele>-1.3</ele>
+  <time>2013-08-29T23:21:03Z</time>
+  <name>2013-08-29 16:04:16 Day-103</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.955995 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.447052 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -1.300 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 9.3 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 147.8 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:21:03Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-7.png</sym>
+</wpt>
+<wpt lat="48.446516" lon="-70.95516">
+  <ele>-1.3</ele>
+  <time>2013-08-29T23:21:53Z</time>
+  <name>2013-08-29 16:04:16 Day-104</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.955160 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.446516 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -1.300 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 6.2 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 134.1 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:21:53Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-6.png</sym>
+</wpt>
+<wpt lat="48.445793" lon="-70.954667">
+  <ele>-2.3</ele>
+  <time>2013-08-29T23:22:33Z</time>
+  <name>2013-08-29 16:04:16 Day-105</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.954667 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.445793 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -2.270 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 7.9 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 155.6 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:22:33Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-7.png</sym>
+</wpt>
+<wpt lat="48.444095" lon="-70.953308">
+  <ele>-1.3</ele>
+  <time>2013-08-29T23:23:53Z</time>
+  <name>2013-08-29 16:04:16 Day-106</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.953308 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.444095 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -1.300 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 9.6 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 152.0 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:23:53Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-7.png</sym>
+</wpt>
+<wpt lat="48.443999" lon="-70.953149">
+  <ele>-1.3</ele>
+  <time>2013-08-29T23:24:03Z</time>
+  <name>2013-08-29 16:04:16 Day-107</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.953149 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.443999 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -1.300 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 5.7 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 132.4 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:24:03Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-6.png</sym>
+</wpt>
+<wpt lat="48.4441" lon="-70.953091">
+  <ele>-0.3</ele>
+  <time>2013-08-29T23:24:13Z</time>
+  <name>2013-08-29 16:04:16 Day-108</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.953091 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.444100 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -0.340 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 4.3 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 20.8 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:24:13Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-1.png</sym>
+</wpt>
+<wpt lat="48.445014" lon="-70.951569">
+  <ele>-0.8</ele>
+  <time>2013-08-29T23:25:13Z</time>
+  <name>2013-08-29 16:04:16 Day-109</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.951569 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.445014 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -0.820 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 9.1 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 47.9 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:25:13Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-2.png</sym>
+</wpt>
+<wpt lat="48.445695" lon="-70.950123">
+  <ele>-0.8</ele>
+  <time>2013-08-29T23:26:03Z</time>
+  <name>2013-08-29 16:04:16 Day-110</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.950123 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.445695 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -0.820 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 9.4 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 54.6 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:26:03Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-2.png</sym>
+</wpt>
+<wpt lat="48.446175" lon="-70.949486">
+  <ele>-1.3</ele>
+  <time>2013-08-29T23:26:33Z</time>
+  <name>2013-08-29 16:04:16 Day-111</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.949486 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.446175 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -1.300 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 8.5 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 41.3 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:26:33Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-2.png</sym>
+</wpt>
+<wpt lat="48.44581" lon="-70.949274">
+  <ele>-1.3</ele>
+  <time>2013-08-29T23:27:13Z</time>
+  <name>2013-08-29 16:04:16 Day-112</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.949274 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.445810 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -1.300 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 3.9 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 158.9 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:27:13Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-7.png</sym>
+</wpt>
+<wpt lat="48.445578" lon="-70.949266">
+  <ele>-1.3</ele>
+  <time>2013-08-29T23:27:33Z</time>
+  <name>2013-08-29 16:04:16 Day-113</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.949266 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.445578 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -1.300 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 4.6 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 178.8 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:27:33Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-8.png</sym>
+</wpt>
+<wpt lat="48.445378" lon="-70.949059">
+  <ele>-1.3</ele>
+  <time>2013-08-29T23:27:53Z</time>
+  <name>2013-08-29 16:04:16 Day-114</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.949059 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.445378 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -1.300 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 4.9 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 145.5 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:27:53Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-6.png</sym>
+</wpt>
+<wpt lat="48.44468" lon="-70.948746">
+  <ele>-0.8</ele>
+  <time>2013-08-29T23:28:33Z</time>
+  <name>2013-08-29 16:04:16 Day-115</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.948746 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.444680 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -0.820 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 7.3 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 163.4 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:28:33Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-7.png</sym>
+</wpt>
+<wpt lat="48.444492" lon="-70.948751">
+  <ele>-0.8</ele>
+  <time>2013-08-29T23:28:43Z</time>
+  <name>2013-08-29 16:04:16 Day-116</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.948751 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.444492 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -0.820 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 7.5 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 181.1 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:28:43Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-8.png</sym>
+</wpt>
+<wpt lat="48.442089" lon="-70.947387">
+  <ele>-1.3</ele>
+  <time>2013-08-29T23:30:33Z</time>
+  <name>2013-08-29 16:04:16 Day-117</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.947387 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.442089 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -1.300 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 9.4 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 159.4 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:30:33Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-7.png</sym>
+</wpt>
+<wpt lat="48.440957" lon="-70.946832">
+  <ele>-1.3</ele>
+  <time>2013-08-29T23:31:23Z</time>
+  <name>2013-08-29 16:04:16 Day-118</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.946832 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.440957 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -1.300 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 9.5 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 162.0 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:31:23Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-7.png</sym>
+</wpt>
+<wpt lat="48.440265" lon="-70.946586">
+  <ele>-1.3</ele>
+  <time>2013-08-29T23:31:53Z</time>
+  <name>2013-08-29 16:04:16 Day-119</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.946586 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.440265 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -1.300 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 9.5 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 166.8 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:31:53Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-7.png</sym>
+</wpt>
+<wpt lat="48.440176" lon="-70.946422">
+  <ele>-1.8</ele>
+  <time>2013-08-29T23:32:03Z</time>
+  <name>2013-08-29 16:04:16 Day-120</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.946422 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.440176 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -1.790 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 5.7 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 129.3 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:32:03Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-6.png</sym>
+</wpt>
+<wpt lat="48.440489" lon="-70.946081">
+  <ele>-1.3</ele>
+  <time>2013-08-29T23:32:23Z</time>
+  <name>2013-08-29 16:04:16 Day-121</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.946081 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.440489 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -1.300 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 7.7 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 35.8 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:32:23Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-2.png</sym>
+</wpt>
+<wpt lat="48.440726" lon="-70.945932">
+  <ele>-1.8</ele>
+  <time>2013-08-29T23:32:33Z</time>
+  <name>2013-08-29 16:04:16 Day-122</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.945932 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.440726 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -1.790 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 10.3 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 22.5 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:32:33Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-1.png</sym>
+</wpt>
+<wpt lat="48.44099" lon="-70.946065">
+  <ele>-2.8</ele>
+  <time>2013-08-29T23:32:43Z</time>
+  <name>2013-08-29 16:04:16 Day-123</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.946065 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.440990 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -2.750 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 11.1 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 341.6 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:32:43Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-15.png</sym>
+</wpt>
+<wpt lat="48.441358" lon="-70.946732">
+  <ele>-1.8</ele>
+  <time>2013-08-29T23:33:03Z</time>
+  <name>2013-08-29 16:04:16 Day-124</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.946732 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.441358 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -1.790 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 11.5 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 309.8 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:33:03Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-14.png</sym>
+</wpt>
+<wpt lat="48.441635" lon="-70.947918">
+  <ele>-2.3</ele>
+  <time>2013-08-29T23:33:33Z</time>
+  <name>2013-08-29 16:04:16 Day-125</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.947918 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.441635 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -2.270 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 11.1 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 289.3 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:33:33Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-13.png</sym>
+</wpt>
+<wpt lat="48.441869" lon="-70.950275">
+  <ele>-1.8</ele>
+  <time>2013-08-29T23:34:33Z</time>
+  <name>2013-08-29 16:04:16 Day-126</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.950275 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.441869 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -1.790 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 10.6 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 278.5 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:34:33Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-12.png</sym>
+</wpt>
+<wpt lat="48.442432" lon="-70.952938">
+  <ele>-1.3</ele>
+  <time>2013-08-29T23:35:43Z</time>
+  <name>2013-08-29 16:04:16 Day-127</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.952938 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.442432 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -1.300 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 10.6 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 287.7 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:35:43Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-13.png</sym>
+</wpt>
+<wpt lat="48.4434" lon="-70.956365">
+  <ele>-0.8</ele>
+  <time>2013-08-29T23:37:13Z</time>
+  <name>2013-08-29 16:04:16 Day-128</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.956365 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.443400 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -0.820 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 11.0 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 293.1 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:37:13Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-13.png</sym>
+</wpt>
+<wpt lat="48.443776" lon="-70.958271">
+  <ele>-0.8</ele>
+  <time>2013-08-29T23:38:03Z</time>
+  <name>2013-08-29 16:04:16 Day-129</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.958271 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.443776 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -0.820 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 10.6 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 286.6 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:38:03Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-13.png</sym>
+</wpt>
+<wpt lat="48.444498" lon="-70.960339">
+  <ele>-0.3</ele>
+  <time>2013-08-29T23:38:53Z</time>
+  <name>2013-08-29 16:04:16 Day-130</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.960339 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.444498 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: -0.340 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 12.4 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 297.8 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:38:53Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-13.png</sym>
+</wpt>
+<wpt lat="48.445025" lon="-70.961437">
+  <ele>0.1</ele>
+  <time>2013-08-29T23:39:23Z</time>
+  <name>2013-08-29 16:04:16 Day-131</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.961437 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.445025 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 0.140 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 12.0 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 305.8 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:39:23Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-14.png</sym>
+</wpt>
+<wpt lat="48.445726" lon="-70.963343">
+  <ele>0.1</ele>
+  <time>2013-08-29T23:40:13Z</time>
+  <name>2013-08-29 16:04:16 Day-132</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.963343 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.445726 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 0.140 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 11.6 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 299.0 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:40:13Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-13.png</sym>
+</wpt>
+<wpt lat="48.44595" lon="-70.96416">
+  <ele>0.1</ele>
+  <time>2013-08-29T23:40:33Z</time>
+  <name>2013-08-29 16:04:16 Day-133</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.964160 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.445950 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 0.140 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 11.8 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 292.5 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:40:33Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-13.png</sym>
+</wpt>
+<wpt lat="48.446259" lon="-70.965684">
+  <ele>0.6</ele>
+  <time>2013-08-29T23:41:13Z</time>
+  <name>2013-08-29 16:04:16 Day-134</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.965684 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.446259 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 0.620 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 10.6 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 287.0 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:41:13Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-13.png</sym>
+</wpt>
+<wpt lat="48.446867" lon="-70.968023">
+  <ele>0.1</ele>
+  <time>2013-08-29T23:42:13Z</time>
+  <name>2013-08-29 16:04:16 Day-135</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.968023 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.446867 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 0.140 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 11.1 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 291.4 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:42:13Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-13.png</sym>
+</wpt>
+<wpt lat="48.447054" lon="-70.9692">
+  <ele>0.6</ele>
+  <time>2013-08-29T23:42:43Z</time>
+  <name>2013-08-29 16:04:16 Day-136</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.969200 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.447054 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 0.620 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 10.7 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 283.4 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:42:43Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-13.png</sym>
+</wpt>
+<wpt lat="48.447435" lon="-70.970723">
+  <ele>0.1</ele>
+  <time>2013-08-29T23:43:23Z</time>
+  <name>2013-08-29 16:04:16 Day-137</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.970723 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.447435 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 0.140 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 10.8 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 290.7 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:43:23Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-13.png</sym>
+</wpt>
+<wpt lat="48.447678" lon="-70.972187">
+  <ele>0.6</ele>
+  <time>2013-08-29T23:44:03Z</time>
+  <name>2013-08-29 16:04:16 Day-138</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.972187 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.447678 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 0.620 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 10.0 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 284.0 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:44:03Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-13.png</sym>
+</wpt>
+<wpt lat="48.448157" lon="-70.974015">
+  <ele>1.1</ele>
+  <time>2013-08-29T23:45:13Z</time>
+  <name>2013-08-29 16:04:16 Day-139</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.974015 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.448157 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 1.100 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 7.5 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 291.6 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:45:13Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-13.png</sym>
+</wpt>
+<wpt lat="48.448657" lon="-70.974962">
+  <ele>0.6</ele>
+  <time>2013-08-29T23:45:53Z</time>
+  <name>2013-08-29 16:04:16 Day-140</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.974962 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.448657 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 0.620 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 8.0 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 308.5 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:45:53Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-14.png</sym>
+</wpt>
+<wpt lat="48.44946" lon="-70.977115">
+  <ele>0.6</ele>
+  <time>2013-08-29T23:47:23Z</time>
+  <name>2013-08-29 16:04:16 Day-141</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.977115 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.449460 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 0.620 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 7.3 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 299.4 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:47:23Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-13.png</sym>
+</wpt>
+<wpt lat="48.449738" lon="-70.977604">
+  <ele>0.6</ele>
+  <time>2013-08-29T23:47:43Z</time>
+  <name>2013-08-29 16:04:16 Day-142</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.977604 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.449738 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 0.620 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 8.6 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 310.6 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:47:43Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-14.png</sym>
+</wpt>
+<wpt lat="48.450075" lon="-70.978856">
+  <ele>1.1</ele>
+  <time>2013-08-29T23:48:23Z</time>
+  <name>2013-08-29 16:04:16 Day-143</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.978856 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.450075 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 1.100 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 9.0 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 292.1 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:48:23Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-13.png</sym>
+</wpt>
+<wpt lat="48.450151" lon="-70.979765">
+  <ele>1.1</ele>
+  <time>2013-08-29T23:48:53Z</time>
+  <name>2013-08-29 16:04:16 Day-144</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.979765 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.450151 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 1.100 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 8.1 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 277.2 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:48:53Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-12.png</sym>
+</wpt>
+<wpt lat="48.450228" lon="-70.982706">
+  <ele>1.6</ele>
+  <time>2013-08-29T23:50:43Z</time>
+  <name>2013-08-29 16:04:16 Day-145</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.982706 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.450228 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 1.580 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 7.1 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 272.3 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:50:43Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-12.png</sym>
+</wpt>
+<wpt lat="48.450435" lon="-70.984687">
+  <ele>1.6</ele>
+  <time>2013-08-29T23:51:53Z</time>
+  <name>2013-08-29 16:04:16 Day-146</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.984687 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.450435 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 1.580 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 7.6 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 279.0 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:51:53Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-12.png</sym>
+</wpt>
+<wpt lat="48.45144" lon="-70.988222">
+  <ele>2.1</ele>
+  <time>2013-08-29T23:53:43Z</time>
+  <name>2013-08-29 16:04:16 Day-147</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.988222 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.451440 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 2.060 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 9.3 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 293.2 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:53:43Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-13.png</sym>
+</wpt>
+<wpt lat="48.451608" lon="-70.989259">
+  <ele>2.1</ele>
+  <time>2013-08-29T23:54:13Z</time>
+  <name>2013-08-29 16:04:16 Day-148</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.989259 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.451608 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 2.060 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 9.5 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 283.7 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:54:13Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-13.png</sym>
+</wpt>
+<wpt lat="48.451833" lon="-70.990088">
+  <ele>2.1</ele>
+  <time>2013-08-29T23:54:43Z</time>
+  <name>2013-08-29 16:04:16 Day-149</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.990088 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.451833 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 2.060 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 7.9 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 292.3 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:54:43Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-13.png</sym>
+</wpt>
+<wpt lat="48.45195" lon="-70.991518">
+  <ele>3.0</ele>
+  <time>2013-08-29T23:55:23Z</time>
+  <name>2013-08-29 16:04:16 Day-150</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.991518 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.451950 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 3.020 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 9.6 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 277.0 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:55:23Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-12.png</sym>
+</wpt>
+<wpt lat="48.452185" lon="-70.99239">
+  <ele>2.1</ele>
+  <time>2013-08-29T23:55:53Z</time>
+  <name>2013-08-29 16:04:16 Day-151</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.992390 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.452185 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 2.060 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 8.3 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 292.1 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:55:53Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-13.png</sym>
+</wpt>
+<wpt lat="48.452457" lon="-70.994235">
+  <ele>3.0</ele>
+  <time>2013-08-29T23:56:53Z</time>
+  <name>2013-08-29 16:04:16 Day-152</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.994235 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.452457 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 3.020 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 8.4 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 282.6 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:56:53Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-13.png</sym>
+</wpt>
+<wpt lat="48.452691" lon="-70.995142">
+  <ele>3.0</ele>
+  <time>2013-08-29T23:57:23Z</time>
+  <name>2013-08-29 16:04:16 Day-153</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.995142 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.452691 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 3.020 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 8.6 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 291.3 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:57:23Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-13.png</sym>
+</wpt>
+<wpt lat="48.452865" lon="-70.99638">
+  <ele>3.5</ele>
+  <time>2013-08-29T23:58:03Z</time>
+  <name>2013-08-29 16:04:16 Day-154</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.996380 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.452865 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 3.500 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 8.4 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 282.0 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:58:03Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-13.png</sym>
+</wpt>
+<wpt lat="48.453325" lon="-70.998591">
+  <ele>3.0</ele>
+  <time>2013-08-29T23:59:23Z</time>
+  <name>2013-08-29 16:04:16 Day-155</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -70.998591 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.453325 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 3.020 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 7.7 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 287.4 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-29T23:59:23Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-13.png</sym>
+</wpt>
+<wpt lat="48.453496" lon="-71.00171">
+  <ele>3.5</ele>
+  <time>2013-08-30T00:01:13Z</time>
+  <name>2013-08-29 16:04:16 Day-156</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.001710 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.453496 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 3.500 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 7.6 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 274.7 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-30T00:01:13Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-12.png</sym>
+</wpt>
+<wpt lat="48.453605" lon="-71.00227">
+  <ele>3.5</ele>
+  <time>2013-08-30T00:01:33Z</time>
+  <name>2013-08-29 16:04:16 Day-157</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.002270 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.453605 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 3.500 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 7.8 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 286.3 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-30T00:01:33Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-13.png</sym>
+</wpt>
+<wpt lat="48.453619" lon="-71.003177">
+  <ele>3.5</ele>
+  <time>2013-08-30T00:02:03Z</time>
+  <name>2013-08-29 16:04:16 Day-158</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.003177 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.453619 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 3.500 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 8.0 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 271.4 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-30T00:02:03Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-12.png</sym>
+</wpt>
+<wpt lat="48.453562" lon="-71.003462">
+  <ele>3.5</ele>
+  <time>2013-08-30T00:02:13Z</time>
+  <name>2013-08-29 16:04:16 Day-159</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.003462 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.453562 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 3.500 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 7.9 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 253.3 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-30T00:02:13Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-11.png</sym>
+</wpt>
+<wpt lat="48.453203" lon="-71.004005">
+  <ele>4.9</ele>
+  <time>2013-08-30T00:02:33Z</time>
+  <name>2013-08-29 16:04:16 Day-160</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.004005 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.453203 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 4.940 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 10.2 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 225.1 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-30T00:02:33Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-10.png</sym>
+</wpt>
+<wpt lat="48.452713" lon="-71.004405">
+  <ele>4.0</ele>
+  <time>2013-08-30T00:02:53Z</time>
+  <name>2013-08-29 16:04:16 Day-161</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.004405 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.452713 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 3.980 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 11.2 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 208.4 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-30T00:02:53Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-9.png</sym>
+</wpt>
+<wpt lat="48.452347" lon="-71.004963">
+  <ele>4.0</ele>
+  <time>2013-08-30T00:03:13Z</time>
+  <name>2013-08-29 16:04:16 Day-162</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.004963 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.452347 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 3.980 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 10.4 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 225.3 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-30T00:03:13Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-10.png</sym>
+</wpt>
+<wpt lat="48.452114" lon="-71.005594">
+  <ele>4.0</ele>
+  <time>2013-08-30T00:03:33Z</time>
+  <name>2013-08-29 16:04:16 Day-163</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.005594 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.452114 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 3.980 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 9.6 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 240.9 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-30T00:03:33Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-11.png</sym>
+</wpt>
+<wpt lat="48.45174" lon="-71.006134">
+  <ele>4.0</ele>
+  <time>2013-08-30T00:03:53Z</time>
+  <name>2013-08-29 16:04:16 Day-164</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.006134 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.451740 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 3.980 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 10.4 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 223.8 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-30T00:03:53Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-10.png</sym>
+</wpt>
+<wpt lat="48.450731" lon="-71.0072">
+  <ele>4.9</ele>
+  <time>2013-08-30T00:04:33Z</time>
+  <name>2013-08-29 16:04:16 Day-165</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.007200 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.450731 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 4.940 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 12.3 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 215.0 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-30T00:04:33Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-10.png</sym>
+</wpt>
+<wpt lat="48.448985" lon="-71.009876">
+  <ele>4.9</ele>
+  <time>2013-08-30T00:06:03Z</time>
+  <name>2013-08-29 16:04:16 Day-166</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.009876 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.448985 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 4.940 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 11.1 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 225.5 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-30T00:06:03Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-10.png</sym>
+</wpt>
+<wpt lat="48.448234" lon="-71.010732">
+  <ele>5.9</ele>
+  <time>2013-08-30T00:06:33Z</time>
+  <name>2013-08-29 16:04:16 Day-167</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.010732 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.448234 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 5.910 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 12.6 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 217.1 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-30T00:06:33Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-10.png</sym>
+</wpt>
+<wpt lat="48.44756" lon="-71.011805">
+  <ele>5.4</ele>
+  <time>2013-08-30T00:07:13Z</time>
+  <name>2013-08-29 16:04:16 Day-168</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.011805 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.447560 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 5.420 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 9.8 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 226.5 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-30T00:07:13Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-10.png</sym>
+</wpt>
+<wpt lat="48.445401" lon="-71.014757">
+  <ele>4.9</ele>
+  <time>2013-08-30T00:09:13Z</time>
+  <name>2013-08-29 16:04:16 Day-169</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.014757 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.445401 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 4.940 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 9.7 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 222.2 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-30T00:09:13Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-10.png</sym>
+</wpt>
+<wpt lat="48.444626" lon="-71.015604">
+  <ele>4.9</ele>
+  <time>2013-08-30T00:09:53Z</time>
+  <name>2013-08-29 16:04:16 Day-170</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.015604 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.444626 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 4.940 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 9.6 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 215.9 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-30T00:09:53Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-10.png</sym>
+</wpt>
+<wpt lat="48.44293" lon="-71.018022">
+  <ele>4.5</ele>
+  <time>2013-08-30T00:11:33Z</time>
+  <name>2013-08-29 16:04:16 Day-171</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.018022 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.442930 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 4.460 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 9.4 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 223.4 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-30T00:11:33Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-10.png</sym>
+</wpt>
+<wpt lat="48.441932" lon="-71.019273">
+  <ele>4.9</ele>
+  <time>2013-08-30T00:12:33Z</time>
+  <name>2013-08-29 16:04:16 Day-172</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.019273 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.441932 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 4.940 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 8.7 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 219.7 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-30T00:12:33Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-10.png</sym>
+</wpt>
+<wpt lat="48.440547" lon="-71.021671">
+  <ele>4.9</ele>
+  <time>2013-08-30T00:14:33Z</time>
+  <name>2013-08-29 16:04:16 Day-173</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.021671 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.440547 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 4.940 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 7.0 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 228.9 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-30T00:14:33Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-10.png</sym>
+</wpt>
+<wpt lat="48.439645" lon="-71.023042">
+  <ele>4.5</ele>
+  <time>2013-08-30T00:15:33Z</time>
+  <name>2013-08-29 16:04:16 Day-174</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.023042 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.439645 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 4.460 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 8.6 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 225.2 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-30T00:15:33Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-10.png</sym>
+</wpt>
+<wpt lat="48.439071" lon="-71.023505">
+  <ele>4.9</ele>
+  <time>2013-08-30T00:16:03Z</time>
+  <name>2013-08-29 16:04:16 Day-175</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.023505 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.439071 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 4.940 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 8.7 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 208.2 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-30T00:16:03Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-9.png</sym>
+</wpt>
+<wpt lat="48.437868" lon="-71.026034">
+  <ele>5.4</ele>
+  <time>2013-08-30T00:18:13Z</time>
+  <name>2013-08-29 16:04:16 Day-176</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.026034 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.437868 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 5.420 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 6.4 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 234.4 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-30T00:18:13Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-10.png</sym>
+</wpt>
+<wpt lat="48.436381" lon="-71.028661">
+  <ele>5.9</ele>
+  <time>2013-08-30T00:20:23Z</time>
+  <name>2013-08-29 16:04:16 Day-177</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.028661 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.436381 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 5.910 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 7.1 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 229.5 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-30T00:20:23Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-10.png</sym>
+</wpt>
+<wpt lat="48.435615" lon="-71.029588">
+  <ele>6.4</ele>
+  <time>2013-08-30T00:21:13Z</time>
+  <name>2013-08-29 16:04:16 Day-178</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.029588 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.435615 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 6.390 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 7.9 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 218.8 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-30T00:21:13Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-10.png</sym>
+</wpt>
+<wpt lat="48.434837" lon="-71.031714">
+  <ele>5.9</ele>
+  <time>2013-08-30T00:23:03Z</time>
+  <name>2013-08-29 16:04:16 Day-179</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.031714 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.434837 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 5.910 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 5.9 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 241.1 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-30T00:23:03Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-11.png</sym>
+</wpt>
+<wpt lat="48.434694" lon="-71.032288">
+  <ele>6.4</ele>
+  <time>2013-08-30T00:23:33Z</time>
+  <name>2013-08-29 16:04:16 Day-180</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.032288 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.434694 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 6.390 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 5.4 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 249.5 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-30T00:23:33Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-11.png</sym>
+</wpt>
+<wpt lat="48.43454" lon="-71.032537">
+  <ele>6.4</ele>
+  <time>2013-08-30T00:23:53Z</time>
+  <name>2013-08-29 16:04:16 Day-181</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.032537 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.434540 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 6.390 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 4.5 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 227.0 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-30T00:23:53Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-10.png</sym>
+</wpt>
+<wpt lat="48.433468" lon="-71.035864">
+  <ele>6.4</ele>
+  <time>2013-08-30T00:26:13Z</time>
+  <name>2013-08-29 16:04:16 Day-182</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.035864 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.433468 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 6.390 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 7.0 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 244.1 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-30T00:26:13Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-11.png</sym>
+</wpt>
+<wpt lat="48.433343" lon="-71.036122">
+  <ele>6.4</ele>
+  <time>2013-08-30T00:26:23Z</time>
+  <name>2013-08-29 16:04:16 Day-183</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.036122 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.433343 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 6.390 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 8.5 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 233.8 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-30T00:26:23Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-10.png</sym>
+</wpt>
+<wpt lat="48.432981" lon="-71.037375">
+  <ele>6.4</ele>
+  <time>2013-08-30T00:27:13Z</time>
+  <name>2013-08-29 16:04:16 Day-184</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.037375 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.432981 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 6.390 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 7.3 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 246.5 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-30T00:27:13Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-11.png</sym>
+</wpt>
+<wpt lat="48.432846" lon="-71.038114">
+  <ele>6.4</ele>
+  <time>2013-08-30T00:27:43Z</time>
+  <name>2013-08-29 16:04:16 Day-185</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.038114 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.432846 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 6.390 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 6.8 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 254.5 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-30T00:27:43Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-11.png</sym>
+</wpt>
+<wpt lat="48.432557" lon="-71.041082">
+  <ele>5.9</ele>
+  <time>2013-08-30T00:29:23Z</time>
+  <name>2013-08-29 16:04:16 Day-186</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.041082 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.432557 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 5.910 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 8.0 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 261.7 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-30T00:29:23Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-12.png</sym>
+</wpt>
+<wpt lat="48.432169" lon="-71.0426">
+  <ele>6.4</ele>
+  <time>2013-08-30T00:30:13Z</time>
+  <name>2013-08-29 16:04:16 Day-187</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.042600 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.432169 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 6.390 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 8.7 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 248.9 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-30T00:30:13Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-11.png</sym>
+</wpt>
+<wpt lat="48.432104" lon="-71.043249">
+  <ele>5.9</ele>
+  <time>2013-08-30T00:30:33Z</time>
+  <name>2013-08-29 16:04:16 Day-188</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.043249 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.432104 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 5.910 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 8.7 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 261.4 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-30T00:30:33Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-12.png</sym>
+</wpt>
+<wpt lat="48.431727" lon="-71.044533">
+  <ele>5.9</ele>
+  <time>2013-08-30T00:31:13Z</time>
+  <name>2013-08-29 16:04:16 Day-189</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.044533 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.431727 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 5.910 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 9.3 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 246.1 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-30T00:31:13Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-11.png</sym>
+</wpt>
+<wpt lat="48.431625" lon="-71.045775">
+  <ele>5.9</ele>
+  <time>2013-08-30T00:31:53Z</time>
+  <name>2013-08-29 16:04:16 Day-190</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.045775 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.431625 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 5.910 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 8.3 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 262.9 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-30T00:31:53Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-12.png</sym>
+</wpt>
+<wpt lat="48.431542" lon="-71.04607">
+  <ele>5.4</ele>
+  <time>2013-08-30T00:32:03Z</time>
+  <name>2013-08-29 16:04:16 Day-191</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.046070 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.431542 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 5.420 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 8.5 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 247.1 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-30T00:32:03Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-11.png</sym>
+</wpt>
+<wpt lat="48.431407" lon="-71.046101">
+  <ele>5.9</ele>
+  <time>2013-08-30T00:32:23Z</time>
+  <name>2013-08-29 16:04:16 Day-192</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.046101 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.431407 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 5.910 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 2.7 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 188.6 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-30T00:32:23Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-none.png</sym>
+</wpt>
+<wpt lat="48.431103" lon="-71.046484">
+  <ele>5.9</ele>
+  <time>2013-08-30T00:34:13Z</time>
+  <name>2013-08-29 16:04:16 Day-193</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.046484 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.431103 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 5.910 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 1.4 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 219.9 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-30T00:34:13Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-none.png</sym>
+</wpt>
+<wpt lat="48.430801" lon="-71.047554">
+  <ele>5.9</ele>
+  <time>2013-08-30T00:37:33Z</time>
+  <name>2013-08-29 16:04:16 Day-194</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.047554 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.430801 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 5.910 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 1.5 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 247.0 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-30T00:37:33Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-none.png</sym>
+</wpt>
+<wpt lat="48.430808" lon="-71.048256">
+  <ele>5.9</ele>
+  <time>2013-08-30T00:39:33Z</time>
+  <name>2013-08-29 16:04:16 Day-195</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.048256 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.430808 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 5.910 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 1.6 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 270.9 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-30T00:39:33Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-none.png</sym>
+</wpt>
+<wpt lat="48.430577" lon="-71.049127">
+  <ele>5.9</ele>
+  <time>2013-08-30T00:40:23Z</time>
+  <name>2013-08-29 16:04:16 Day-196</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.049127 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.430577 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 5.910 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 5.0 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 248.2 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-30T00:40:23Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-11.png</sym>
+</wpt>
+<wpt lat="48.43039" lon="-71.050187">
+  <ele>6.4</ele>
+  <time>2013-08-30T00:41:13Z</time>
+  <name>2013-08-29 16:04:16 Day-197</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.050187 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.430390 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 6.390 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 5.8 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 255.1 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-30T00:41:13Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-11.png</sym>
+</wpt>
+<wpt lat="48.430366" lon="-71.051296">
+  <ele>6.4</ele>
+  <time>2013-08-30T00:42:23Z</time>
+  <name>2013-08-29 16:04:16 Day-198</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.051296 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.430366 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 6.390 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 4.2 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 268.1 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-30T00:42:23Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-12.png</sym>
+</wpt>
+<wpt lat="48.430438" lon="-71.051377">
+  <ele>5.9</ele>
+  <time>2013-08-30T00:42:53Z</time>
+  <name>2013-08-29 16:04:16 Day-199</name>
+  <desc>&lt;table>                 &lt;tr>&lt;td>Longitude: -71.051377 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Latitude: 48.430438 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Altitude: 5.910 meters &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Speed: 1.2 km/hour &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Heading: 323.7 &lt;/td>&lt;/tr>                 &lt;tr>&lt;td>Time: 2013-08-30T00:42:53Z &lt;/td>&lt;/tr>               &lt;/table></desc>
+  <sym>http://earth.google.com/images/kml-icons/track-directional/track-none.png</sym>
+</wpt>
+<trk>
+  <name>2013-08-29 16:04:16 Day</name>
+  <trkseg>
+    <trkpt lat="48.430381" lon="-71.051393">
+      <ele>-6.11</ele>
+      <time>2013-08-29T21:54:03Z</time>
+    </trkpt>
+    <trkpt lat="48.430379" lon="-71.049603">
+      <ele>-5.63</ele>
+      <time>2013-08-29T21:57:43Z</time>
+      <course>90.1</course>
+      <speed>0.60</speed>
+    </trkpt>
+    <trkpt lat="48.430514" lon="-71.047568">
+      <ele>-4.67</ele>
+      <time>2013-08-29T22:00:33Z</time>
+      <course>84.3</course>
+      <speed>0.89</speed>
+    </trkpt>
+    <trkpt lat="48.430415" lon="-71.047367">
+      <ele>-4.67</ele>
+      <time>2013-08-29T22:01:13Z</time>
+      <course>126.6</course>
+      <speed>0.46</speed>
+    </trkpt>
+    <trkpt lat="48.431876" lon="-71.045735">
+      <ele>-4.19</ele>
+      <time>2013-08-29T22:02:43Z</time>
+      <course>36.5</course>
+      <speed>2.25</speed>
+    </trkpt>
+    <trkpt lat="48.432014" lon="-71.045327">
+      <ele>-4.67</ele>
+      <time>2013-08-29T22:03:03Z</time>
+      <course>63.0</course>
+      <speed>1.69</speed>
+    </trkpt>
+    <trkpt lat="48.433029" lon="-71.043307">
+      <ele>-4.67</ele>
+      <time>2013-08-29T22:07:43Z</time>
+      <course>52.9</course>
+      <speed>0.67</speed>
+    </trkpt>
+    <trkpt lat="48.433278" lon="-71.043056">
+      <ele>-4.19</ele>
+      <time>2013-08-29T22:08:23Z</time>
+      <course>33.8</course>
+      <speed>0.83</speed>
+    </trkpt>
+    <trkpt lat="48.432885" lon="-71.042394">
+      <ele>-4.19</ele>
+      <time>2013-08-29T22:08:53Z</time>
+      <course>131.8</course>
+      <speed>2.18</speed>
+    </trkpt>
+    <trkpt lat="48.432313" lon="-71.040858">
+      <ele>-5.15</ele>
+      <time>2013-08-29T22:09:33Z</time>
+      <course>119.3</course>
+      <speed>3.25</speed>
+    </trkpt>
+    <trkpt lat="48.431968" lon="-71.04027">
+      <ele>-4.67</ele>
+      <time>2013-08-29T22:09:53Z</time>
+      <course>131.5</course>
+      <speed>2.89</speed>
+    </trkpt>
+    <trkpt lat="48.430802" lon="-71.038902">
+      <ele>-4.67</ele>
+      <time>2013-08-29T22:10:53Z</time>
+      <course>142.1</course>
+      <speed>2.74</speed>
+    </trkpt>
+    <trkpt lat="48.43061" lon="-71.03845">
+      <ele>-5.15</ele>
+      <time>2013-08-29T22:11:13Z</time>
+      <course>122.6</course>
+      <speed>1.98</speed>
+    </trkpt>
+    <trkpt lat="48.430496" lon="-71.038316">
+      <ele>-5.15</ele>
+      <time>2013-08-29T22:11:23Z</time>
+      <course>142.0</course>
+      <speed>1.61</speed>
+    </trkpt>
+    <trkpt lat="48.430552" lon="-71.038172">
+      <ele>-5.15</ele>
+      <time>2013-08-29T22:11:33Z</time>
+      <course>59.6</course>
+      <speed>1.23</speed>
+    </trkpt>
+    <trkpt lat="48.431631" lon="-71.037789">
+      <ele>-5.15</ele>
+      <time>2013-08-29T22:12:33Z</time>
+      <course>13.3</course>
+      <speed>2.05</speed>
+    </trkpt>
+    <trkpt lat="48.432324" lon="-71.03729">
+      <ele>-5.15</ele>
+      <time>2013-08-29T22:13:03Z</time>
+      <course>25.5</course>
+      <speed>2.85</speed>
+    </trkpt>
+    <trkpt lat="48.432994" lon="-71.036682">
+      <ele>-5.15</ele>
+      <time>2013-08-29T22:13:33Z</time>
+      <course>31.1</course>
+      <speed>2.90</speed>
+    </trkpt>
+    <trkpt lat="48.433701" lon="-71.036285">
+      <ele>-5.15</ele>
+      <time>2013-08-29T22:14:03Z</time>
+      <course>20.4</course>
+      <speed>2.79</speed>
+    </trkpt>
+    <trkpt lat="48.434428" lon="-71.0361">
+      <ele>-5.15</ele>
+      <time>2013-08-29T22:14:33Z</time>
+      <course>9.6</course>
+      <speed>2.73</speed>
+    </trkpt>
+    <trkpt lat="48.434407" lon="-71.035852">
+      <ele>-6.11</ele>
+      <time>2013-08-29T22:14:43Z</time>
+      <course>97.3</course>
+      <speed>1.84</speed>
+    </trkpt>
+    <trkpt lat="48.433642" lon="-71.033747">
+      <ele>-4.67</ele>
+      <time>2013-08-29T22:15:43Z</time>
+      <course>118.7</course>
+      <speed>2.95</speed>
+    </trkpt>
+    <trkpt lat="48.433639" lon="-71.033424">
+      <ele>-5.63</ele>
+      <time>2013-08-29T22:15:53Z</time>
+      <course>90.8</course>
+      <speed>2.38</speed>
+    </trkpt>
+    <trkpt lat="48.435626" lon="-71.032">
+      <ele>-4.67</ele>
+      <time>2013-08-29T22:17:23Z</time>
+      <course>25.4</course>
+      <speed>2.72</speed>
+    </trkpt>
+    <trkpt lat="48.435728" lon="-71.031851">
+      <ele>-5.63</ele>
+      <time>2013-08-29T22:17:33Z</time>
+      <course>44.1</course>
+      <speed>1.58</speed>
+    </trkpt>
+    <trkpt lat="48.43585" lon="-71.030024">
+      <ele>-5.63</ele>
+      <time>2013-08-29T22:21:43Z</time>
+      <course>84.3</course>
+      <speed>0.54</speed>
+    </trkpt>
+    <trkpt lat="48.435371" lon="-71.028794">
+      <ele>-6.11</ele>
+      <time>2013-08-29T22:22:33Z</time>
+      <course>120.4</course>
+      <speed>2.10</speed>
+    </trkpt>
+    <trkpt lat="48.435424" lon="-71.02859">
+      <ele>-5.63</ele>
+      <time>2013-08-29T22:22:43Z</time>
+      <course>68.6</course>
+      <speed>1.62</speed>
+    </trkpt>
+    <trkpt lat="48.435851" lon="-71.028576">
+      <ele>-5.63</ele>
+      <time>2013-08-29T22:23:03Z</time>
+      <course>1.2</course>
+      <speed>2.37</speed>
+    </trkpt>
+    <trkpt lat="48.436371" lon="-71.028442">
+      <ele>-5.63</ele>
+      <time>2013-08-29T22:23:23Z</time>
+      <course>9.7</course>
+      <speed>2.93</speed>
+    </trkpt>
+    <trkpt lat="48.436624" lon="-71.028215">
+      <ele>-5.15</ele>
+      <time>2013-08-29T22:23:33Z</time>
+      <course>30.8</course>
+      <speed>3.27</speed>
+    </trkpt>
+    <trkpt lat="48.43776" lon="-71.02772">
+      <ele>-6.11</ele>
+      <time>2013-08-29T22:24:13Z</time>
+      <course>16.1</course>
+      <speed>3.29</speed>
+    </trkpt>
+    <trkpt lat="48.439131" lon="-71.026999">
+      <ele>-5.15</ele>
+      <time>2013-08-29T22:25:03Z</time>
+      <course>19.2</course>
+      <speed>3.23</speed>
+    </trkpt>
+    <trkpt lat="48.439667" lon="-71.026554">
+      <ele>-5.15</ele>
+      <time>2013-08-29T22:25:23Z</time>
+      <course>28.8</course>
+      <speed>3.40</speed>
+    </trkpt>
+    <trkpt lat="48.440659" lon="-71.026119">
+      <ele>-5.15</ele>
+      <time>2013-08-29T22:26:03Z</time>
+      <course>16.2</course>
+      <speed>2.87</speed>
+    </trkpt>
+    <trkpt lat="48.4423" lon="-71.024413">
+      <ele>-5.63</ele>
+      <time>2013-08-29T22:27:13Z</time>
+      <course>34.6</course>
+      <speed>3.16</speed>
+    </trkpt>
+    <trkpt lat="48.443047" lon="-71.023926">
+      <ele>-4.67</ele>
+      <time>2013-08-29T22:27:43Z</time>
+      <course>23.4</course>
+      <speed>3.01</speed>
+    </trkpt>
+    <trkpt lat="48.444239" lon="-71.022691">
+      <ele>-4.67</ele>
+      <time>2013-08-29T22:28:43Z</time>
+      <course>34.5</course>
+      <speed>2.68</speed>
+    </trkpt>
+    <trkpt lat="48.444591" lon="-71.022189">
+      <ele>-4.67</ele>
+      <time>2013-08-29T22:29:03Z</time>
+      <course>43.4</course>
+      <speed>2.69</speed>
+    </trkpt>
+    <trkpt lat="48.446588" lon="-71.020293">
+      <ele>-4.19</ele>
+      <time>2013-08-29T22:30:33Z</time>
+      <course>32.2</course>
+      <speed>2.91</speed>
+    </trkpt>
+    <trkpt lat="48.447371" lon="-71.01922">
+      <ele>-4.67</ele>
+      <time>2013-08-29T22:31:13Z</time>
+      <course>42.3</course>
+      <speed>2.94</speed>
+    </trkpt>
+    <trkpt lat="48.447816" lon="-71.018722">
+      <ele>-4.67</ele>
+      <time>2013-08-29T22:31:33Z</time>
+      <course>36.6</course>
+      <speed>3.08</speed>
+    </trkpt>
+    <trkpt lat="48.448532" lon="-71.018108">
+      <ele>-3.71</ele>
+      <time>2013-08-29T22:32:03Z</time>
+      <course>29.6</course>
+      <speed>3.05</speed>
+    </trkpt>
+    <trkpt lat="48.451186" lon="-71.014927">
+      <ele>-3.23</ele>
+      <time>2013-08-29T22:34:03Z</time>
+      <course>38.5</course>
+      <speed>3.14</speed>
+    </trkpt>
+    <trkpt lat="48.452156" lon="-71.013371">
+      <ele>-3.71</ele>
+      <time>2013-08-29T22:34:53Z</time>
+      <course>46.8</course>
+      <speed>3.15</speed>
+    </trkpt>
+    <trkpt lat="48.454933" lon="-71.009239">
+      <ele>-3.23</ele>
+      <time>2013-08-29T22:37:13Z</time>
+      <course>44.6</course>
+      <speed>3.10</speed>
+    </trkpt>
+    <trkpt lat="48.455264" lon="-71.008606">
+      <ele>-2.27</ele>
+      <time>2013-08-29T22:37:33Z</time>
+      <course>51.7</course>
+      <speed>2.97</speed>
+    </trkpt>
+    <trkpt lat="48.455293" lon="-71.008364">
+      <ele>-3.23</ele>
+      <time>2013-08-29T22:37:43Z</time>
+      <course>79.8</course>
+      <speed>1.81</speed>
+    </trkpt>
+    <trkpt lat="48.454893" lon="-71.008267">
+      <ele>-2.27</ele>
+      <time>2013-08-29T22:38:03Z</time>
+      <course>170.9</course>
+      <speed>2.25</speed>
+    </trkpt>
+    <trkpt lat="48.452938" lon="-71.006684">
+      <ele>-1.79</ele>
+      <time>2013-08-29T22:39:33Z</time>
+      <course>151.8</course>
+      <speed>2.74</speed>
+    </trkpt>
+    <trkpt lat="48.451856" lon="-71.005691">
+      <ele>-2.27</ele>
+      <time>2013-08-29T22:40:23Z</time>
+      <course>148.7</course>
+      <speed>2.82</speed>
+    </trkpt>
+    <trkpt lat="48.451242" lon="-71.004984">
+      <ele>-1.3</ele>
+      <time>2013-08-29T22:40:53Z</time>
+      <course>142.6</course>
+      <speed>2.86</speed>
+    </trkpt>
+    <trkpt lat="48.450364" lon="-71.004144">
+      <ele>-1.3</ele>
+      <time>2013-08-29T22:41:33Z</time>
+      <course>147.6</course>
+      <speed>2.89</speed>
+    </trkpt>
+    <trkpt lat="48.450689" lon="-71.003814">
+      <ele>-0.82</ele>
+      <time>2013-08-29T22:41:53Z</time>
+      <course>34.0</course>
+      <speed>2.18</speed>
+    </trkpt>
+    <trkpt lat="48.451916" lon="-71.001558">
+      <ele>-1.3</ele>
+      <time>2013-08-29T22:43:03Z</time>
+      <course>50.6</course>
+      <speed>3.07</speed>
+    </trkpt>
+    <trkpt lat="48.452387" lon="-71.000545">
+      <ele>-1.79</ele>
+      <time>2013-08-29T22:43:33Z</time>
+      <course>55.0</course>
+      <speed>3.04</speed>
+    </trkpt>
+    <trkpt lat="48.453332" lon="-70.99891">
+      <ele>-1.79</ele>
+      <time>2013-08-29T22:44:23Z</time>
+      <course>48.9</course>
+      <speed>3.20</speed>
+    </trkpt>
+    <trkpt lat="48.454853" lon="-70.996895">
+      <ele>-1.79</ele>
+      <time>2013-08-29T22:45:33Z</time>
+      <course>41.3</course>
+      <speed>3.21</speed>
+    </trkpt>
+    <trkpt lat="48.455336" lon="-70.995955">
+      <ele>-1.3</ele>
+      <time>2013-08-29T22:46:03Z</time>
+      <course>52.2</course>
+      <speed>2.92</speed>
+    </trkpt>
+    <trkpt lat="48.456889" lon="-70.993303">
+      <ele>-1.79</ele>
+      <time>2013-08-29T22:47:33Z</time>
+      <course>48.6</course>
+      <speed>2.90</speed>
+    </trkpt>
+    <trkpt lat="48.457831" lon="-70.991523">
+      <ele>-1.3</ele>
+      <time>2013-08-29T22:48:33Z</time>
+      <course>51.4</course>
+      <speed>2.80</speed>
+    </trkpt>
+    <trkpt lat="48.458357" lon="-70.990749">
+      <ele>-1.79</ele>
+      <time>2013-08-29T22:49:03Z</time>
+      <course>44.3</course>
+      <speed>2.72</speed>
+    </trkpt>
+    <trkpt lat="48.456103" lon="-70.989689">
+      <ele>-1.3</ele>
+      <time>2013-08-29T22:50:43Z</time>
+      <course>162.7</course>
+      <speed>2.62</speed>
+    </trkpt>
+    <trkpt lat="48.454696" lon="-70.988773">
+      <ele>-0.82</ele>
+      <time>2013-08-29T22:51:43Z</time>
+      <course>156.6</course>
+      <speed>2.84</speed>
+    </trkpt>
+    <trkpt lat="48.454179" lon="-70.98859">
+      <ele>-0.82</ele>
+      <time>2013-08-29T22:52:03Z</time>
+      <course>166.8</course>
+      <speed>2.95</speed>
+    </trkpt>
+    <trkpt lat="48.451991" lon="-70.987062">
+      <ele>-0.34</ele>
+      <time>2013-08-29T22:53:33Z</time>
+      <course>155.1</course>
+      <speed>2.98</speed>
+    </trkpt>
+    <trkpt lat="48.449213" lon="-70.984839">
+      <ele>-0.34</ele>
+      <time>2013-08-29T22:55:33Z</time>
+      <course>152.0</course>
+      <speed>2.91</speed>
+    </trkpt>
+    <trkpt lat="48.447663" lon="-70.98387">
+      <ele>0.62</ele>
+      <time>2013-08-29T22:56:43Z</time>
+      <course>157.5</course>
+      <speed>2.66</speed>
+    </trkpt>
+    <trkpt lat="48.445335" lon="-70.98274">
+      <ele>0.62</ele>
+      <time>2013-08-29T22:58:23Z</time>
+      <course>162.2</course>
+      <speed>2.72</speed>
+    </trkpt>
+    <trkpt lat="48.445289" lon="-70.982601">
+      <ele>0.62</ele>
+      <time>2013-08-29T22:58:33Z</time>
+      <course>116.5</course>
+      <speed>1.15</speed>
+    </trkpt>
+    <trkpt lat="48.445469" lon="-70.982456">
+      <ele>0.62</ele>
+      <time>2013-08-29T22:58:43Z</time>
+      <course>28.1</course>
+      <speed>2.27</speed>
+    </trkpt>
+    <trkpt lat="48.446043" lon="-70.981383">
+      <ele>1.1</ele>
+      <time>2013-08-29T22:59:23Z</time>
+      <course>51.1</course>
+      <speed>2.54</speed>
+    </trkpt>
+    <trkpt lat="48.446874" lon="-70.980117">
+      <ele>0.62</ele>
+      <time>2013-08-29T23:00:13Z</time>
+      <course>45.3</course>
+      <speed>2.63</speed>
+    </trkpt>
+    <trkpt lat="48.447724" lon="-70.978375">
+      <ele>1.1</ele>
+      <time>2013-08-29T23:01:13Z</time>
+      <course>53.7</course>
+      <speed>2.66</speed>
+    </trkpt>
+    <trkpt lat="48.448403" lon="-70.977323">
+      <ele>0.14</ele>
+      <time>2013-08-29T23:01:53Z</time>
+      <course>45.8</course>
+      <speed>2.71</speed>
+    </trkpt>
+    <trkpt lat="48.447712" lon="-70.976758">
+      <ele>0.14</ele>
+      <time>2013-08-29T23:02:33Z</time>
+      <course>151.5</course>
+      <speed>2.18</speed>
+    </trkpt>
+    <trkpt lat="48.445246" lon="-70.975249">
+      <ele>0.62</ele>
+      <time>2013-08-29T23:04:23Z</time>
+      <course>157.9</course>
+      <speed>2.69</speed>
+    </trkpt>
+    <trkpt lat="48.444195" lon="-70.974434">
+      <ele>0.62</ele>
+      <time>2013-08-29T23:05:13Z</time>
+      <course>152.8</course>
+      <speed>2.63</speed>
+    </trkpt>
+    <trkpt lat="48.442854" lon="-70.973629">
+      <ele>0.14</ele>
+      <time>2013-08-29T23:06:13Z</time>
+      <course>158.3</course>
+      <speed>2.67</speed>
+    </trkpt>
+    <trkpt lat="48.442772" lon="-70.973485">
+      <ele>0.14</ele>
+      <time>2013-08-29T23:06:23Z</time>
+      <course>130.6</course>
+      <speed>1.40</speed>
+    </trkpt>
+    <trkpt lat="48.442932" lon="-70.973335">
+      <ele>0.14</ele>
+      <time>2013-08-29T23:06:33Z</time>
+      <course>31.9</course>
+      <speed>2.09</speed>
+    </trkpt>
+    <trkpt lat="48.443362" lon="-70.972598">
+      <ele>0.14</ele>
+      <time>2013-08-29T23:07:03Z</time>
+      <course>48.7</course>
+      <speed>2.41</speed>
+    </trkpt>
+    <trkpt lat="48.443622" lon="-70.972019">
+      <ele>0.14</ele>
+      <time>2013-08-29T23:07:23Z</time>
+      <course>55.9</course>
+      <speed>2.58</speed>
+    </trkpt>
+    <trkpt lat="48.444451" lon="-70.970696">
+      <ele>0.14</ele>
+      <time>2013-08-29T23:08:13Z</time>
+      <course>46.6</course>
+      <speed>2.68</speed>
+    </trkpt>
+    <trkpt lat="48.445537" lon="-70.968732">
+      <ele>-0.34</ele>
+      <time>2013-08-29T23:09:23Z</time>
+      <course>50.2</course>
+      <speed>2.69</speed>
+    </trkpt>
+    <trkpt lat="48.4464" lon="-70.966985">
+      <ele>-0.34</ele>
+      <time>2013-08-29T23:10:23Z</time>
+      <course>53.3</course>
+      <speed>2.68</speed>
+    </trkpt>
+    <trkpt lat="48.447173" lon="-70.965125">
+      <ele>0.14</ele>
+      <time>2013-08-29T23:11:23Z</time>
+      <course>57.9</course>
+      <speed>2.70</speed>
+    </trkpt>
+    <trkpt lat="48.447706" lon="-70.964311">
+      <ele>-0.34</ele>
+      <time>2013-08-29T23:11:53Z</time>
+      <course>45.4</course>
+      <speed>2.81</speed>
+    </trkpt>
+    <trkpt lat="48.448169" lon="-70.963452">
+      <ele>0.14</ele>
+      <time>2013-08-29T23:12:23Z</time>
+      <course>50.9</course>
+      <speed>2.72</speed>
+    </trkpt>
+    <trkpt lat="48.449224" lon="-70.962546">
+      <ele>-0.34</ele>
+      <time>2013-08-29T23:13:13Z</time>
+      <course>29.7</course>
+      <speed>2.70</speed>
+    </trkpt>
+    <trkpt lat="48.449375" lon="-70.962325">
+      <ele>-0.82</ele>
+      <time>2013-08-29T23:13:23Z</time>
+      <course>44.1</course>
+      <speed>2.34</speed>
+    </trkpt>
+    <trkpt lat="48.449765" lon="-70.962004">
+      <ele>-0.34</ele>
+      <time>2013-08-29T23:13:43Z</time>
+      <course>28.6</course>
+      <speed>2.47</speed>
+    </trkpt>
+    <trkpt lat="48.450038" lon="-70.961516">
+      <ele>-0.34</ele>
+      <time>2013-08-29T23:14:03Z</time>
+      <course>49.9</course>
+      <speed>2.35</speed>
+    </trkpt>
+    <trkpt lat="48.451048" lon="-70.960323">
+      <ele>-0.34</ele>
+      <time>2013-08-29T23:15:03Z</time>
+      <course>38.1</course>
+      <speed>2.38</speed>
+    </trkpt>
+    <trkpt lat="48.45145" lon="-70.960032">
+      <ele>-0.82</ele>
+      <time>2013-08-29T23:15:23Z</time>
+      <course>25.6</course>
+      <speed>2.48</speed>
+    </trkpt>
+    <trkpt lat="48.451452" lon="-70.959894">
+      <ele>-1.3</ele>
+      <time>2013-08-29T23:15:33Z</time>
+      <course>88.7</course>
+      <speed>1.02</speed>
+    </trkpt>
+    <trkpt lat="48.45103" lon="-70.95995">
+      <ele>-0.34</ele>
+      <time>2013-08-29T23:16:23Z</time>
+      <course>185.0</course>
+      <speed>0.94</speed>
+    </trkpt>
+    <trkpt lat="48.450706" lon="-70.959716">
+      <ele>-0.82</ele>
+      <time>2013-08-29T23:16:43Z</time>
+      <course>154.4</course>
+      <speed>2.00</speed>
+    </trkpt>
+    <trkpt lat="48.449904" lon="-70.958503">
+      <ele>-1.3</ele>
+      <time>2013-08-29T23:18:03Z</time>
+      <course>134.9</course>
+      <speed>1.58</speed>
+    </trkpt>
+    <trkpt lat="48.449326" lon="-70.957979">
+      <ele>-1.3</ele>
+      <time>2013-08-29T23:18:43Z</time>
+      <course>149.0</course>
+      <speed>1.87</speed>
+    </trkpt>
+    <trkpt lat="48.449142" lon="-70.957904">
+      <ele>-1.3</ele>
+      <time>2013-08-29T23:18:53Z</time>
+      <course>164.9</course>
+      <speed>2.12</speed>
+    </trkpt>
+    <trkpt lat="48.448588" lon="-70.957275">
+      <ele>-1.3</ele>
+      <time>2013-08-29T23:19:43Z</time>
+      <course>143.0</course>
+      <speed>1.54</speed>
+    </trkpt>
+    <trkpt lat="48.448032" lon="-70.956924">
+      <ele>-1.3</ele>
+      <time>2013-08-29T23:20:13Z</time>
+      <course>157.3</course>
+      <speed>2.23</speed>
+    </trkpt>
+    <trkpt lat="48.447052" lon="-70.955995">
+      <ele>-1.3</ele>
+      <time>2013-08-29T23:21:03Z</time>
+      <course>147.8</course>
+      <speed>2.57</speed>
+    </trkpt>
+    <trkpt lat="48.446516" lon="-70.95516">
+      <ele>-1.3</ele>
+      <time>2013-08-29T23:21:53Z</time>
+      <course>134.1</course>
+      <speed>1.71</speed>
+    </trkpt>
+    <trkpt lat="48.445793" lon="-70.954667">
+      <ele>-2.27</ele>
+      <time>2013-08-29T23:22:33Z</time>
+      <course>155.7</course>
+      <speed>2.20</speed>
+    </trkpt>
+    <trkpt lat="48.444095" lon="-70.953308">
+      <ele>-1.3</ele>
+      <time>2013-08-29T23:23:53Z</time>
+      <course>152.0</course>
+      <speed>2.67</speed>
+    </trkpt>
+    <trkpt lat="48.443999" lon="-70.953149">
+      <ele>-1.3</ele>
+      <time>2013-08-29T23:24:03Z</time>
+      <course>132.3</course>
+      <speed>1.58</speed>
+    </trkpt>
+    <trkpt lat="48.4441" lon="-70.953091">
+      <ele>-0.34</ele>
+      <time>2013-08-29T23:24:13Z</time>
+      <course>20.9</course>
+      <speed>1.20</speed>
+    </trkpt>
+    <trkpt lat="48.445014" lon="-70.951569">
+      <ele>-0.82</ele>
+      <time>2013-08-29T23:25:13Z</time>
+      <course>47.8</course>
+      <speed>2.52</speed>
+    </trkpt>
+    <trkpt lat="48.445695" lon="-70.950123">
+      <ele>-0.82</ele>
+      <time>2013-08-29T23:26:03Z</time>
+      <course>54.6</course>
+      <speed>2.61</speed>
+    </trkpt>
+    <trkpt lat="48.446175" lon="-70.949486">
+      <ele>-1.3</ele>
+      <time>2013-08-29T23:26:33Z</time>
+      <course>41.4</course>
+      <speed>2.37</speed>
+    </trkpt>
+    <trkpt lat="48.44581" lon="-70.949274">
+      <ele>-1.3</ele>
+      <time>2013-08-29T23:27:13Z</time>
+      <course>158.9</course>
+      <speed>1.09</speed>
+    </trkpt>
+    <trkpt lat="48.445578" lon="-70.949266">
+      <ele>-1.3</ele>
+      <time>2013-08-29T23:27:33Z</time>
+      <course>178.7</course>
+      <speed>1.29</speed>
+    </trkpt>
+    <trkpt lat="48.445378" lon="-70.949059">
+      <ele>-1.3</ele>
+      <time>2013-08-29T23:27:53Z</time>
+      <course>145.5</course>
+      <speed>1.35</speed>
+    </trkpt>
+    <trkpt lat="48.44468" lon="-70.948746">
+      <ele>-0.82</ele>
+      <time>2013-08-29T23:28:33Z</time>
+      <course>163.4</course>
+      <speed>2.02</speed>
+    </trkpt>
+    <trkpt lat="48.444492" lon="-70.948751">
+      <ele>-0.82</ele>
+      <time>2013-08-29T23:28:43Z</time>
+      <course>181.0</course>
+      <speed>2.09</speed>
+    </trkpt>
+    <trkpt lat="48.442089" lon="-70.947387">
+      <ele>-1.3</ele>
+      <time>2013-08-29T23:30:33Z</time>
+      <course>159.4</course>
+      <speed>2.59</speed>
+    </trkpt>
+    <trkpt lat="48.440957" lon="-70.946832">
+      <ele>-1.3</ele>
+      <time>2013-08-29T23:31:23Z</time>
+      <course>162.0</course>
+      <speed>2.65</speed>
+    </trkpt>
+    <trkpt lat="48.440265" lon="-70.946586">
+      <ele>-1.3</ele>
+      <time>2013-08-29T23:31:53Z</time>
+      <course>166.7</course>
+      <speed>2.63</speed>
+    </trkpt>
+    <trkpt lat="48.440176" lon="-70.946422">
+      <ele>-1.79</ele>
+      <time>2013-08-29T23:32:03Z</time>
+      <course>129.3</course>
+      <speed>1.56</speed>
+    </trkpt>
+    <trkpt lat="48.440489" lon="-70.946081">
+      <ele>-1.3</ele>
+      <time>2013-08-29T23:32:23Z</time>
+      <course>35.9</course>
+      <speed>2.15</speed>
+    </trkpt>
+    <trkpt lat="48.440726" lon="-70.945932">
+      <ele>-1.79</ele>
+      <time>2013-08-29T23:32:33Z</time>
+      <course>22.6</course>
+      <speed>2.85</speed>
+    </trkpt>
+    <trkpt lat="48.44099" lon="-70.946065">
+      <ele>-2.75</ele>
+      <time>2013-08-29T23:32:43Z</time>
+      <course>341.5</course>
+      <speed>3.09</speed>
+    </trkpt>
+    <trkpt lat="48.441358" lon="-70.946732">
+      <ele>-1.79</ele>
+      <time>2013-08-29T23:33:03Z</time>
+      <course>309.8</course>
+      <speed>3.20</speed>
+    </trkpt>
+    <trkpt lat="48.441635" lon="-70.947918">
+      <ele>-2.27</ele>
+      <time>2013-08-29T23:33:33Z</time>
+      <course>289.4</course>
+      <speed>3.09</speed>
+    </trkpt>
+    <trkpt lat="48.441869" lon="-70.950275">
+      <ele>-1.79</ele>
+      <time>2013-08-29T23:34:33Z</time>
+      <course>278.5</course>
+      <speed>2.93</speed>
+    </trkpt>
+    <trkpt lat="48.442432" lon="-70.952938">
+      <ele>-1.3</ele>
+      <time>2013-08-29T23:35:43Z</time>
+      <course>287.7</course>
+      <speed>2.94</speed>
+    </trkpt>
+    <trkpt lat="48.4434" lon="-70.956365">
+      <ele>-0.82</ele>
+      <time>2013-08-29T23:37:13Z</time>
+      <course>293.1</course>
+      <speed>3.05</speed>
+    </trkpt>
+    <trkpt lat="48.443776" lon="-70.958271">
+      <ele>-0.82</ele>
+      <time>2013-08-29T23:38:03Z</time>
+      <course>286.6</course>
+      <speed>2.93</speed>
+    </trkpt>
+    <trkpt lat="48.444498" lon="-70.960339">
+      <ele>-0.34</ele>
+      <time>2013-08-29T23:38:53Z</time>
+      <course>297.8</course>
+      <speed>3.45</speed>
+    </trkpt>
+    <trkpt lat="48.445025" lon="-70.961437">
+      <ele>0.14</ele>
+      <time>2013-08-29T23:39:23Z</time>
+      <course>305.9</course>
+      <speed>3.33</speed>
+    </trkpt>
+    <trkpt lat="48.445726" lon="-70.963343">
+      <ele>0.14</ele>
+      <time>2013-08-29T23:40:13Z</time>
+      <course>299.0</course>
+      <speed>3.21</speed>
+    </trkpt>
+    <trkpt lat="48.44595" lon="-70.96416">
+      <ele>0.14</ele>
+      <time>2013-08-29T23:40:33Z</time>
+      <course>292.5</course>
+      <speed>3.26</speed>
+    </trkpt>
+    <trkpt lat="48.446259" lon="-70.965684">
+      <ele>0.62</ele>
+      <time>2013-08-29T23:41:13Z</time>
+      <course>287.0</course>
+      <speed>2.94</speed>
+    </trkpt>
+    <trkpt lat="48.446867" lon="-70.968023">
+      <ele>0.14</ele>
+      <time>2013-08-29T23:42:13Z</time>
+      <course>291.4</course>
+      <speed>3.09</speed>
+    </trkpt>
+    <trkpt lat="48.447054" lon="-70.9692">
+      <ele>0.62</ele>
+      <time>2013-08-29T23:42:43Z</time>
+      <course>283.5</course>
+      <speed>2.97</speed>
+    </trkpt>
+    <trkpt lat="48.447435" lon="-70.970723">
+      <ele>0.14</ele>
+      <time>2013-08-29T23:43:23Z</time>
+      <course>290.7</course>
+      <speed>3.00</speed>
+    </trkpt>
+    <trkpt lat="48.447678" lon="-70.972187">
+      <ele>0.62</ele>
+      <time>2013-08-29T23:44:03Z</time>
+      <course>284.1</course>
+      <speed>2.78</speed>
+    </trkpt>
+    <trkpt lat="48.448157" lon="-70.974015">
+      <ele>1.1</ele>
+      <time>2013-08-29T23:45:13Z</time>
+      <course>291.6</course>
+      <speed>2.07</speed>
+    </trkpt>
+    <trkpt lat="48.448657" lon="-70.974962">
+      <ele>0.62</ele>
+      <time>2013-08-29T23:45:53Z</time>
+      <course>308.5</course>
+      <speed>2.23</speed>
+    </trkpt>
+    <trkpt lat="48.44946" lon="-70.977115">
+      <ele>0.62</ele>
+      <time>2013-08-29T23:47:23Z</time>
+      <course>299.4</course>
+      <speed>2.02</speed>
+    </trkpt>
+    <trkpt lat="48.449738" lon="-70.977604">
+      <ele>0.62</ele>
+      <time>2013-08-29T23:47:43Z</time>
+      <course>310.6</course>
+      <speed>2.37</speed>
+    </trkpt>
+    <trkpt lat="48.450075" lon="-70.978856">
+      <ele>1.1</ele>
+      <time>2013-08-29T23:48:23Z</time>
+      <course>292.1</course>
+      <speed>2.49</speed>
+    </trkpt>
+    <trkpt lat="48.450151" lon="-70.979765">
+      <ele>1.1</ele>
+      <time>2013-08-29T23:48:53Z</time>
+      <course>277.2</course>
+      <speed>2.25</speed>
+    </trkpt>
+    <trkpt lat="48.450228" lon="-70.982706">
+      <ele>1.58</ele>
+      <time>2013-08-29T23:50:43Z</time>
+      <course>272.3</course>
+      <speed>1.97</speed>
+    </trkpt>
+    <trkpt lat="48.450435" lon="-70.984687">
+      <ele>1.58</ele>
+      <time>2013-08-29T23:51:53Z</time>
+      <course>279.0</course>
+      <speed>2.11</speed>
+    </trkpt>
+    <trkpt lat="48.45144" lon="-70.988222">
+      <ele>2.06</ele>
+      <time>2013-08-29T23:53:43Z</time>
+      <course>293.2</course>
+      <speed>2.58</speed>
+    </trkpt>
+    <trkpt lat="48.451608" lon="-70.989259">
+      <ele>2.06</ele>
+      <time>2013-08-29T23:54:13Z</time>
+      <course>283.7</course>
+      <speed>2.62</speed>
+    </trkpt>
+    <trkpt lat="48.451833" lon="-70.990088">
+      <ele>2.06</ele>
+      <time>2013-08-29T23:54:43Z</time>
+      <course>292.3</course>
+      <speed>2.20</speed>
+    </trkpt>
+    <trkpt lat="48.45195" lon="-70.991518">
+      <ele>3.02</ele>
+      <time>2013-08-29T23:55:23Z</time>
+      <course>277.0</course>
+      <speed>2.66</speed>
+    </trkpt>
+    <trkpt lat="48.452185" lon="-70.99239">
+      <ele>2.06</ele>
+      <time>2013-08-29T23:55:53Z</time>
+      <course>292.1</course>
+      <speed>2.31</speed>
+    </trkpt>
+    <trkpt lat="48.452457" lon="-70.994235">
+      <ele>3.02</ele>
+      <time>2013-08-29T23:56:53Z</time>
+      <course>282.5</course>
+      <speed>2.32</speed>
+    </trkpt>
+    <trkpt lat="48.452691" lon="-70.995142">
+      <ele>3.02</ele>
+      <time>2013-08-29T23:57:23Z</time>
+      <course>291.3</course>
+      <speed>2.39</speed>
+    </trkpt>
+    <trkpt lat="48.452865" lon="-70.99638">
+      <ele>3.5</ele>
+      <time>2013-08-29T23:58:03Z</time>
+      <course>282.0</course>
+      <speed>2.33</speed>
+    </trkpt>
+    <trkpt lat="48.453325" lon="-70.998591">
+      <ele>3.02</ele>
+      <time>2013-08-29T23:59:23Z</time>
+      <course>287.4</course>
+      <speed>2.13</speed>
+    </trkpt>
+    <trkpt lat="48.453496" lon="-71.00171">
+      <ele>3.5</ele>
+      <time>2013-08-30T00:01:13Z</time>
+      <course>274.7</course>
+      <speed>2.10</speed>
+    </trkpt>
+    <trkpt lat="48.453605" lon="-71.00227">
+      <ele>3.5</ele>
+      <time>2013-08-30T00:01:33Z</time>
+      <course>286.4</course>
+      <speed>2.15</speed>
+    </trkpt>
+    <trkpt lat="48.453619" lon="-71.003177">
+      <ele>3.5</ele>
+      <time>2013-08-30T00:02:03Z</time>
+      <course>271.3</course>
+      <speed>2.23</speed>
+    </trkpt>
+    <trkpt lat="48.453562" lon="-71.003462">
+      <ele>3.5</ele>
+      <time>2013-08-30T00:02:13Z</time>
+      <course>253.2</course>
+      <speed>2.19</speed>
+    </trkpt>
+    <trkpt lat="48.453203" lon="-71.004005">
+      <ele>4.94</ele>
+      <time>2013-08-30T00:02:33Z</time>
+      <course>225.1</course>
+      <speed>2.83</speed>
+    </trkpt>
+    <trkpt lat="48.452713" lon="-71.004405">
+      <ele>3.98</ele>
+      <time>2013-08-30T00:02:53Z</time>
+      <course>208.4</course>
+      <speed>3.10</speed>
+    </trkpt>
+    <trkpt lat="48.452347" lon="-71.004963">
+      <ele>3.98</ele>
+      <time>2013-08-30T00:03:13Z</time>
+      <course>225.3</course>
+      <speed>2.89</speed>
+    </trkpt>
+    <trkpt lat="48.452114" lon="-71.005594">
+      <ele>3.98</ele>
+      <time>2013-08-30T00:03:33Z</time>
+      <course>240.9</course>
+      <speed>2.66</speed>
+    </trkpt>
+    <trkpt lat="48.45174" lon="-71.006134">
+      <ele>3.98</ele>
+      <time>2013-08-30T00:03:53Z</time>
+      <course>223.8</course>
+      <speed>2.88</speed>
+    </trkpt>
+    <trkpt lat="48.450731" lon="-71.0072">
+      <ele>4.94</ele>
+      <time>2013-08-30T00:04:33Z</time>
+      <course>215.0</course>
+      <speed>3.42</speed>
+    </trkpt>
+    <trkpt lat="48.448985" lon="-71.009876">
+      <ele>4.94</ele>
+      <time>2013-08-30T00:06:03Z</time>
+      <course>225.5</course>
+      <speed>3.07</speed>
+    </trkpt>
+    <trkpt lat="48.448234" lon="-71.010732">
+      <ele>5.91</ele>
+      <time>2013-08-30T00:06:33Z</time>
+      <course>217.1</course>
+      <speed>3.49</speed>
+    </trkpt>
+    <trkpt lat="48.44756" lon="-71.011805">
+      <ele>5.42</ele>
+      <time>2013-08-30T00:07:13Z</time>
+      <course>226.6</course>
+      <speed>2.72</speed>
+    </trkpt>
+    <trkpt lat="48.445401" lon="-71.014757">
+      <ele>4.94</ele>
+      <time>2013-08-30T00:09:13Z</time>
+      <course>222.2</course>
+      <speed>2.70</speed>
+    </trkpt>
+    <trkpt lat="48.444626" lon="-71.015604">
+      <ele>4.94</ele>
+      <time>2013-08-30T00:09:53Z</time>
+      <course>215.9</course>
+      <speed>2.66</speed>
+    </trkpt>
+    <trkpt lat="48.44293" lon="-71.018022">
+      <ele>4.46</ele>
+      <time>2013-08-30T00:11:33Z</time>
+      <course>223.4</course>
+      <speed>2.59</speed>
+    </trkpt>
+    <trkpt lat="48.441932" lon="-71.019273">
+      <ele>4.94</ele>
+      <time>2013-08-30T00:12:33Z</time>
+      <course>219.7</course>
+      <speed>2.40</speed>
+    </trkpt>
+    <trkpt lat="48.440547" lon="-71.021671">
+      <ele>4.94</ele>
+      <time>2013-08-30T00:14:33Z</time>
+      <course>229.0</course>
+      <speed>1.95</speed>
+    </trkpt>
+    <trkpt lat="48.439645" lon="-71.023042">
+      <ele>4.46</ele>
+      <time>2013-08-30T00:15:33Z</time>
+      <course>225.2</course>
+      <speed>2.37</speed>
+    </trkpt>
+    <trkpt lat="48.439071" lon="-71.023505">
+      <ele>4.94</ele>
+      <time>2013-08-30T00:16:03Z</time>
+      <course>208.2</course>
+      <speed>2.41</speed>
+    </trkpt>
+    <trkpt lat="48.437868" lon="-71.026034">
+      <ele>5.42</ele>
+      <time>2013-08-30T00:18:13Z</time>
+      <course>234.4</course>
+      <speed>1.76</speed>
+    </trkpt>
+    <trkpt lat="48.436381" lon="-71.028661">
+      <ele>5.91</ele>
+      <time>2013-08-30T00:20:23Z</time>
+      <course>229.5</course>
+      <speed>1.96</speed>
+    </trkpt>
+    <trkpt lat="48.435615" lon="-71.029588">
+      <ele>6.39</ele>
+      <time>2013-08-30T00:21:13Z</time>
+      <course>218.8</course>
+      <speed>2.18</speed>
+    </trkpt>
+    <trkpt lat="48.434837" lon="-71.031714">
+      <ele>5.91</ele>
+      <time>2013-08-30T00:23:03Z</time>
+      <course>241.1</course>
+      <speed>1.63</speed>
+    </trkpt>
+    <trkpt lat="48.434694" lon="-71.032288">
+      <ele>6.39</ele>
+      <time>2013-08-30T00:23:33Z</time>
+      <course>249.4</course>
+      <speed>1.51</speed>
+    </trkpt>
+    <trkpt lat="48.43454" lon="-71.032537">
+      <ele>6.39</ele>
+      <time>2013-08-30T00:23:53Z</time>
+      <course>227.0</course>
+      <speed>1.25</speed>
+    </trkpt>
+    <trkpt lat="48.433468" lon="-71.035864">
+      <ele>6.39</ele>
+      <time>2013-08-30T00:26:13Z</time>
+      <course>244.1</course>
+      <speed>1.95</speed>
+    </trkpt>
+    <trkpt lat="48.433343" lon="-71.036122">
+      <ele>6.39</ele>
+      <time>2013-08-30T00:26:23Z</time>
+      <course>233.9</course>
+      <speed>2.36</speed>
+    </trkpt>
+    <trkpt lat="48.432981" lon="-71.037375">
+      <ele>6.39</ele>
+      <time>2013-08-30T00:27:13Z</time>
+      <course>246.5</course>
+      <speed>2.02</speed>
+    </trkpt>
+    <trkpt lat="48.432846" lon="-71.038114">
+      <ele>6.39</ele>
+      <time>2013-08-30T00:27:43Z</time>
+      <course>254.6</course>
+      <speed>1.88</speed>
+    </trkpt>
+    <trkpt lat="48.432557" lon="-71.041082">
+      <ele>5.91</ele>
+      <time>2013-08-30T00:29:23Z</time>
+      <course>261.7</course>
+      <speed>2.21</speed>
+    </trkpt>
+    <trkpt lat="48.432169" lon="-71.0426">
+      <ele>6.39</ele>
+      <time>2013-08-30T00:30:13Z</time>
+      <course>248.9</course>
+      <speed>2.40</speed>
+    </trkpt>
+    <trkpt lat="48.432104" lon="-71.043249">
+      <ele>5.91</ele>
+      <time>2013-08-30T00:30:33Z</time>
+      <course>261.4</course>
+      <speed>2.42</speed>
+    </trkpt>
+    <trkpt lat="48.431727" lon="-71.044533">
+      <ele>5.91</ele>
+      <time>2013-08-30T00:31:13Z</time>
+      <course>246.1</course>
+      <speed>2.59</speed>
+    </trkpt>
+    <trkpt lat="48.431625" lon="-71.045775">
+      <ele>5.91</ele>
+      <time>2013-08-30T00:31:53Z</time>
+      <course>262.9</course>
+      <speed>2.31</speed>
+    </trkpt>
+    <trkpt lat="48.431542" lon="-71.04607">
+      <ele>5.42</ele>
+      <time>2013-08-30T00:32:03Z</time>
+      <course>247.0</course>
+      <speed>2.36</speed>
+    </trkpt>
+    <trkpt lat="48.431407" lon="-71.046101">
+      <ele>5.91</ele>
+      <time>2013-08-30T00:32:23Z</time>
+      <course>188.7</course>
+      <speed>0.76</speed>
+    </trkpt>
+    <trkpt lat="48.431103" lon="-71.046484">
+      <ele>5.91</ele>
+      <time>2013-08-30T00:34:13Z</time>
+      <course>219.9</course>
+      <speed>0.40</speed>
+    </trkpt>
+    <trkpt lat="48.430801" lon="-71.047554">
+      <ele>5.91</ele>
+      <time>2013-08-30T00:37:33Z</time>
+      <course>247.0</course>
+      <speed>0.43</speed>
+    </trkpt>
+    <trkpt lat="48.430808" lon="-71.048256">
+      <ele>5.91</ele>
+      <time>2013-08-30T00:39:33Z</time>
+      <course>270.9</course>
+      <speed>0.43</speed>
+    </trkpt>
+    <trkpt lat="48.430577" lon="-71.049127">
+      <ele>5.91</ele>
+      <time>2013-08-30T00:40:23Z</time>
+      <course>248.2</course>
+      <speed>1.38</speed>
+    </trkpt>
+    <trkpt lat="48.43039" lon="-71.050187">
+      <ele>6.39</ele>
+      <time>2013-08-30T00:41:13Z</time>
+      <course>255.1</course>
+      <speed>1.62</speed>
+    </trkpt>
+    <trkpt lat="48.430366" lon="-71.051296">
+      <ele>6.39</ele>
+      <time>2013-08-30T00:42:23Z</time>
+      <course>268.1</course>
+      <speed>1.17</speed>
+    </trkpt>
+    <trkpt lat="48.430438" lon="-71.051377">
+      <ele>5.91</ele>
+      <time>2013-08-30T00:42:53Z</time>
+      <course>323.3</course>
+      <speed>0.33</speed>
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <name>Path</name>
+  <trkseg>
+    <trkpt lat="48.430381" lon="-71.051393">
+      <ele>-6.11</ele>
+    </trkpt>
+    <trkpt lat="48.430379" lon="-71.049603">
+      <ele>-5.63</ele>
+      <course>90.1</course>
+    </trkpt>
+    <trkpt lat="48.430514" lon="-71.047568">
+      <ele>-4.67</ele>
+      <course>84.3</course>
+    </trkpt>
+    <trkpt lat="48.430415" lon="-71.047367">
+      <ele>-4.67</ele>
+      <course>126.6</course>
+    </trkpt>
+    <trkpt lat="48.431876" lon="-71.045735">
+      <ele>-4.19</ele>
+      <course>36.5</course>
+    </trkpt>
+    <trkpt lat="48.432014" lon="-71.045327">
+      <ele>-4.67</ele>
+      <course>63.0</course>
+    </trkpt>
+    <trkpt lat="48.433029" lon="-71.043307">
+      <ele>-4.67</ele>
+      <course>52.9</course>
+    </trkpt>
+    <trkpt lat="48.433278" lon="-71.043056">
+      <ele>-4.19</ele>
+      <course>33.8</course>
+    </trkpt>
+    <trkpt lat="48.432885" lon="-71.042394">
+      <ele>-4.19</ele>
+      <course>131.8</course>
+    </trkpt>
+    <trkpt lat="48.432313" lon="-71.040858">
+      <ele>-5.15</ele>
+      <course>119.3</course>
+    </trkpt>
+    <trkpt lat="48.431968" lon="-71.04027">
+      <ele>-4.67</ele>
+      <course>131.5</course>
+    </trkpt>
+    <trkpt lat="48.430802" lon="-71.038902">
+      <ele>-4.67</ele>
+      <course>142.1</course>
+    </trkpt>
+    <trkpt lat="48.43061" lon="-71.03845">
+      <ele>-5.15</ele>
+      <course>122.6</course>
+    </trkpt>
+    <trkpt lat="48.430496" lon="-71.038316">
+      <ele>-5.15</ele>
+      <course>142.0</course>
+    </trkpt>
+    <trkpt lat="48.430552" lon="-71.038172">
+      <ele>-5.15</ele>
+      <course>59.6</course>
+    </trkpt>
+    <trkpt lat="48.431631" lon="-71.037789">
+      <ele>-5.15</ele>
+      <course>13.3</course>
+    </trkpt>
+    <trkpt lat="48.432324" lon="-71.03729">
+      <ele>-5.15</ele>
+      <course>25.5</course>
+    </trkpt>
+    <trkpt lat="48.432994" lon="-71.036682">
+      <ele>-5.15</ele>
+      <course>31.1</course>
+    </trkpt>
+    <trkpt lat="48.433701" lon="-71.036285">
+      <ele>-5.15</ele>
+      <course>20.4</course>
+    </trkpt>
+    <trkpt lat="48.434428" lon="-71.0361">
+      <ele>-5.15</ele>
+      <course>9.6</course>
+    </trkpt>
+    <trkpt lat="48.434407" lon="-71.035852">
+      <ele>-6.11</ele>
+      <course>97.3</course>
+    </trkpt>
+    <trkpt lat="48.433642" lon="-71.033747">
+      <ele>-4.67</ele>
+      <course>118.7</course>
+    </trkpt>
+    <trkpt lat="48.433639" lon="-71.033424">
+      <ele>-5.63</ele>
+      <course>90.8</course>
+    </trkpt>
+    <trkpt lat="48.435626" lon="-71.032">
+      <ele>-4.67</ele>
+      <course>25.4</course>
+    </trkpt>
+    <trkpt lat="48.435728" lon="-71.031851">
+      <ele>-5.63</ele>
+      <course>44.1</course>
+    </trkpt>
+    <trkpt lat="48.43585" lon="-71.030024">
+      <ele>-5.63</ele>
+      <course>84.3</course>
+    </trkpt>
+    <trkpt lat="48.435371" lon="-71.028794">
+      <ele>-6.11</ele>
+      <course>120.4</course>
+    </trkpt>
+    <trkpt lat="48.435424" lon="-71.02859">
+      <ele>-5.63</ele>
+      <course>68.6</course>
+    </trkpt>
+    <trkpt lat="48.435851" lon="-71.028576">
+      <ele>-5.63</ele>
+      <course>1.2</course>
+    </trkpt>
+    <trkpt lat="48.436371" lon="-71.028442">
+      <ele>-5.63</ele>
+      <course>9.7</course>
+    </trkpt>
+    <trkpt lat="48.436624" lon="-71.028215">
+      <ele>-5.15</ele>
+      <course>30.8</course>
+    </trkpt>
+    <trkpt lat="48.43776" lon="-71.02772">
+      <ele>-6.11</ele>
+      <course>16.1</course>
+    </trkpt>
+    <trkpt lat="48.439131" lon="-71.026999">
+      <ele>-5.15</ele>
+      <course>19.2</course>
+    </trkpt>
+    <trkpt lat="48.439667" lon="-71.026554">
+      <ele>-5.15</ele>
+      <course>28.8</course>
+    </trkpt>
+    <trkpt lat="48.440659" lon="-71.026119">
+      <ele>-5.15</ele>
+      <course>16.2</course>
+    </trkpt>
+    <trkpt lat="48.4423" lon="-71.024413">
+      <ele>-5.63</ele>
+      <course>34.6</course>
+    </trkpt>
+    <trkpt lat="48.443047" lon="-71.023926">
+      <ele>-4.67</ele>
+      <course>23.4</course>
+    </trkpt>
+    <trkpt lat="48.444239" lon="-71.022691">
+      <ele>-4.67</ele>
+      <course>34.5</course>
+    </trkpt>
+    <trkpt lat="48.444591" lon="-71.022189">
+      <ele>-4.67</ele>
+      <course>43.4</course>
+    </trkpt>
+    <trkpt lat="48.446588" lon="-71.020293">
+      <ele>-4.19</ele>
+      <course>32.2</course>
+    </trkpt>
+    <trkpt lat="48.447371" lon="-71.01922">
+      <ele>-4.67</ele>
+      <course>42.3</course>
+    </trkpt>
+    <trkpt lat="48.447816" lon="-71.018722">
+      <ele>-4.67</ele>
+      <course>36.6</course>
+    </trkpt>
+    <trkpt lat="48.448532" lon="-71.018108">
+      <ele>-3.71</ele>
+      <course>29.6</course>
+    </trkpt>
+    <trkpt lat="48.451186" lon="-71.014927">
+      <ele>-3.23</ele>
+      <course>38.5</course>
+    </trkpt>
+    <trkpt lat="48.452156" lon="-71.013371">
+      <ele>-3.71</ele>
+      <course>46.8</course>
+    </trkpt>
+    <trkpt lat="48.454933" lon="-71.009239">
+      <ele>-3.23</ele>
+      <course>44.6</course>
+    </trkpt>
+    <trkpt lat="48.455264" lon="-71.008606">
+      <ele>-2.27</ele>
+      <course>51.7</course>
+    </trkpt>
+    <trkpt lat="48.455293" lon="-71.008364">
+      <ele>-3.23</ele>
+      <course>79.8</course>
+    </trkpt>
+    <trkpt lat="48.454893" lon="-71.008267">
+      <ele>-2.27</ele>
+      <course>170.9</course>
+    </trkpt>
+    <trkpt lat="48.452938" lon="-71.006684">
+      <ele>-1.79</ele>
+      <course>151.8</course>
+    </trkpt>
+    <trkpt lat="48.451856" lon="-71.005691">
+      <ele>-2.27</ele>
+      <course>148.7</course>
+    </trkpt>
+    <trkpt lat="48.451242" lon="-71.004984">
+      <ele>-1.3</ele>
+      <course>142.6</course>
+    </trkpt>
+    <trkpt lat="48.450364" lon="-71.004144">
+      <ele>-1.3</ele>
+      <course>147.6</course>
+    </trkpt>
+    <trkpt lat="48.450689" lon="-71.003814">
+      <ele>-0.82</ele>
+      <course>34.0</course>
+    </trkpt>
+    <trkpt lat="48.451916" lon="-71.001558">
+      <ele>-1.3</ele>
+      <course>50.6</course>
+    </trkpt>
+    <trkpt lat="48.452387" lon="-71.000545">
+      <ele>-1.79</ele>
+      <course>55.0</course>
+    </trkpt>
+    <trkpt lat="48.453332" lon="-70.99891">
+      <ele>-1.79</ele>
+      <course>48.9</course>
+    </trkpt>
+    <trkpt lat="48.454853" lon="-70.996895">
+      <ele>-1.79</ele>
+      <course>41.3</course>
+    </trkpt>
+    <trkpt lat="48.455336" lon="-70.995955">
+      <ele>-1.3</ele>
+      <course>52.2</course>
+    </trkpt>
+    <trkpt lat="48.456889" lon="-70.993303">
+      <ele>-1.79</ele>
+      <course>48.6</course>
+    </trkpt>
+    <trkpt lat="48.457831" lon="-70.991523">
+      <ele>-1.3</ele>
+      <course>51.4</course>
+    </trkpt>
+    <trkpt lat="48.458357" lon="-70.990749">
+      <ele>-1.79</ele>
+      <course>44.3</course>
+    </trkpt>
+    <trkpt lat="48.456103" lon="-70.989689">
+      <ele>-1.3</ele>
+      <course>162.7</course>
+    </trkpt>
+    <trkpt lat="48.454696" lon="-70.988773">
+      <ele>-0.82</ele>
+      <course>156.6</course>
+    </trkpt>
+    <trkpt lat="48.454179" lon="-70.98859">
+      <ele>-0.82</ele>
+      <course>166.8</course>
+    </trkpt>
+    <trkpt lat="48.451991" lon="-70.987062">
+      <ele>-0.34</ele>
+      <course>155.1</course>
+    </trkpt>
+    <trkpt lat="48.449213" lon="-70.984839">
+      <ele>-0.34</ele>
+      <course>152.0</course>
+    </trkpt>
+    <trkpt lat="48.447663" lon="-70.98387">
+      <ele>0.62</ele>
+      <course>157.5</course>
+    </trkpt>
+    <trkpt lat="48.445335" lon="-70.98274">
+      <ele>0.62</ele>
+      <course>162.2</course>
+    </trkpt>
+    <trkpt lat="48.445289" lon="-70.982601">
+      <ele>0.62</ele>
+      <course>116.5</course>
+    </trkpt>
+    <trkpt lat="48.445469" lon="-70.982456">
+      <ele>0.62</ele>
+      <course>28.1</course>
+    </trkpt>
+    <trkpt lat="48.446043" lon="-70.981383">
+      <ele>1.1</ele>
+      <course>51.1</course>
+    </trkpt>
+    <trkpt lat="48.446874" lon="-70.980117">
+      <ele>0.62</ele>
+      <course>45.3</course>
+    </trkpt>
+    <trkpt lat="48.447724" lon="-70.978375">
+      <ele>1.1</ele>
+      <course>53.7</course>
+    </trkpt>
+    <trkpt lat="48.448403" lon="-70.977323">
+      <ele>0.14</ele>
+      <course>45.8</course>
+    </trkpt>
+    <trkpt lat="48.447712" lon="-70.976758">
+      <ele>0.14</ele>
+      <course>151.5</course>
+    </trkpt>
+    <trkpt lat="48.445246" lon="-70.975249">
+      <ele>0.62</ele>
+      <course>157.9</course>
+    </trkpt>
+    <trkpt lat="48.444195" lon="-70.974434">
+      <ele>0.62</ele>
+      <course>152.8</course>
+    </trkpt>
+    <trkpt lat="48.442854" lon="-70.973629">
+      <ele>0.14</ele>
+      <course>158.3</course>
+    </trkpt>
+    <trkpt lat="48.442772" lon="-70.973485">
+      <ele>0.14</ele>
+      <course>130.6</course>
+    </trkpt>
+    <trkpt lat="48.442932" lon="-70.973335">
+      <ele>0.14</ele>
+      <course>31.9</course>
+    </trkpt>
+    <trkpt lat="48.443362" lon="-70.972598">
+      <ele>0.14</ele>
+      <course>48.7</course>
+    </trkpt>
+    <trkpt lat="48.443622" lon="-70.972019">
+      <ele>0.14</ele>
+      <course>55.9</course>
+    </trkpt>
+    <trkpt lat="48.444451" lon="-70.970696">
+      <ele>0.14</ele>
+      <course>46.6</course>
+    </trkpt>
+    <trkpt lat="48.445537" lon="-70.968732">
+      <ele>-0.34</ele>
+      <course>50.2</course>
+    </trkpt>
+    <trkpt lat="48.4464" lon="-70.966985">
+      <ele>-0.34</ele>
+      <course>53.3</course>
+    </trkpt>
+    <trkpt lat="48.447173" lon="-70.965125">
+      <ele>0.14</ele>
+      <course>57.9</course>
+    </trkpt>
+    <trkpt lat="48.447706" lon="-70.964311">
+      <ele>-0.34</ele>
+      <course>45.4</course>
+    </trkpt>
+    <trkpt lat="48.448169" lon="-70.963452">
+      <ele>0.14</ele>
+      <course>50.9</course>
+    </trkpt>
+    <trkpt lat="48.449224" lon="-70.962546">
+      <ele>-0.34</ele>
+      <course>29.7</course>
+    </trkpt>
+    <trkpt lat="48.449375" lon="-70.962325">
+      <ele>-0.82</ele>
+      <course>44.1</course>
+    </trkpt>
+    <trkpt lat="48.449765" lon="-70.962004">
+      <ele>-0.34</ele>
+      <course>28.6</course>
+    </trkpt>
+    <trkpt lat="48.450038" lon="-70.961516">
+      <ele>-0.34</ele>
+      <course>49.9</course>
+    </trkpt>
+    <trkpt lat="48.451048" lon="-70.960323">
+      <ele>-0.34</ele>
+      <course>38.1</course>
+    </trkpt>
+    <trkpt lat="48.45145" lon="-70.960032">
+      <ele>-0.82</ele>
+      <course>25.6</course>
+    </trkpt>
+    <trkpt lat="48.451452" lon="-70.959894">
+      <ele>-1.3</ele>
+      <course>88.7</course>
+    </trkpt>
+    <trkpt lat="48.45103" lon="-70.95995">
+      <ele>-0.34</ele>
+      <course>185.0</course>
+    </trkpt>
+    <trkpt lat="48.450706" lon="-70.959716">
+      <ele>-0.82</ele>
+      <course>154.4</course>
+    </trkpt>
+    <trkpt lat="48.449904" lon="-70.958503">
+      <ele>-1.3</ele>
+      <course>134.9</course>
+    </trkpt>
+    <trkpt lat="48.449326" lon="-70.957979">
+      <ele>-1.3</ele>
+      <course>149.0</course>
+    </trkpt>
+    <trkpt lat="48.449142" lon="-70.957904">
+      <ele>-1.3</ele>
+      <course>164.9</course>
+    </trkpt>
+    <trkpt lat="48.448588" lon="-70.957275">
+      <ele>-1.3</ele>
+      <course>143.0</course>
+    </trkpt>
+    <trkpt lat="48.448032" lon="-70.956924">
+      <ele>-1.3</ele>
+      <course>157.3</course>
+    </trkpt>
+    <trkpt lat="48.447052" lon="-70.955995">
+      <ele>-1.3</ele>
+      <course>147.8</course>
+    </trkpt>
+    <trkpt lat="48.446516" lon="-70.95516">
+      <ele>-1.3</ele>
+      <course>134.1</course>
+    </trkpt>
+    <trkpt lat="48.445793" lon="-70.954667">
+      <ele>-2.27</ele>
+      <course>155.7</course>
+    </trkpt>
+    <trkpt lat="48.444095" lon="-70.953308">
+      <ele>-1.3</ele>
+      <course>152.0</course>
+    </trkpt>
+    <trkpt lat="48.443999" lon="-70.953149">
+      <ele>-1.3</ele>
+      <course>132.3</course>
+    </trkpt>
+    <trkpt lat="48.4441" lon="-70.953091">
+      <ele>-0.34</ele>
+      <course>20.9</course>
+    </trkpt>
+    <trkpt lat="48.445014" lon="-70.951569">
+      <ele>-0.82</ele>
+      <course>47.8</course>
+    </trkpt>
+    <trkpt lat="48.445695" lon="-70.950123">
+      <ele>-0.82</ele>
+      <course>54.6</course>
+    </trkpt>
+    <trkpt lat="48.446175" lon="-70.949486">
+      <ele>-1.3</ele>
+      <course>41.4</course>
+    </trkpt>
+    <trkpt lat="48.44581" lon="-70.949274">
+      <ele>-1.3</ele>
+      <course>158.9</course>
+    </trkpt>
+    <trkpt lat="48.445578" lon="-70.949266">
+      <ele>-1.3</ele>
+      <course>178.7</course>
+    </trkpt>
+    <trkpt lat="48.445378" lon="-70.949059">
+      <ele>-1.3</ele>
+      <course>145.5</course>
+    </trkpt>
+    <trkpt lat="48.44468" lon="-70.948746">
+      <ele>-0.82</ele>
+      <course>163.4</course>
+    </trkpt>
+    <trkpt lat="48.444492" lon="-70.948751">
+      <ele>-0.82</ele>
+      <course>181.0</course>
+    </trkpt>
+    <trkpt lat="48.442089" lon="-70.947387">
+      <ele>-1.3</ele>
+      <course>159.4</course>
+    </trkpt>
+    <trkpt lat="48.440957" lon="-70.946832">
+      <ele>-1.3</ele>
+      <course>162.0</course>
+    </trkpt>
+    <trkpt lat="48.440265" lon="-70.946586">
+      <ele>-1.3</ele>
+      <course>166.7</course>
+    </trkpt>
+    <trkpt lat="48.440176" lon="-70.946422">
+      <ele>-1.79</ele>
+      <course>129.3</course>
+    </trkpt>
+    <trkpt lat="48.440489" lon="-70.946081">
+      <ele>-1.3</ele>
+      <course>35.9</course>
+    </trkpt>
+    <trkpt lat="48.440726" lon="-70.945932">
+      <ele>-1.79</ele>
+      <course>22.6</course>
+    </trkpt>
+    <trkpt lat="48.44099" lon="-70.946065">
+      <ele>-2.75</ele>
+      <course>341.5</course>
+    </trkpt>
+    <trkpt lat="48.441358" lon="-70.946732">
+      <ele>-1.79</ele>
+      <course>309.8</course>
+    </trkpt>
+    <trkpt lat="48.441635" lon="-70.947918">
+      <ele>-2.27</ele>
+      <course>289.4</course>
+    </trkpt>
+    <trkpt lat="48.441869" lon="-70.950275">
+      <ele>-1.79</ele>
+      <course>278.5</course>
+    </trkpt>
+    <trkpt lat="48.442432" lon="-70.952938">
+      <ele>-1.3</ele>
+      <course>287.7</course>
+    </trkpt>
+    <trkpt lat="48.4434" lon="-70.956365">
+      <ele>-0.82</ele>
+      <course>293.1</course>
+    </trkpt>
+    <trkpt lat="48.443776" lon="-70.958271">
+      <ele>-0.82</ele>
+      <course>286.6</course>
+    </trkpt>
+    <trkpt lat="48.444498" lon="-70.960339">
+      <ele>-0.34</ele>
+      <course>297.8</course>
+    </trkpt>
+    <trkpt lat="48.445025" lon="-70.961437">
+      <ele>0.14</ele>
+      <course>305.9</course>
+    </trkpt>
+    <trkpt lat="48.445726" lon="-70.963343">
+      <ele>0.14</ele>
+      <course>299.0</course>
+    </trkpt>
+    <trkpt lat="48.44595" lon="-70.96416">
+      <ele>0.14</ele>
+      <course>292.5</course>
+    </trkpt>
+    <trkpt lat="48.446259" lon="-70.965684">
+      <ele>0.62</ele>
+      <course>287.0</course>
+    </trkpt>
+    <trkpt lat="48.446867" lon="-70.968023">
+      <ele>0.14</ele>
+      <course>291.4</course>
+    </trkpt>
+    <trkpt lat="48.447054" lon="-70.9692">
+      <ele>0.62</ele>
+      <course>283.5</course>
+    </trkpt>
+    <trkpt lat="48.447435" lon="-70.970723">
+      <ele>0.14</ele>
+      <course>290.7</course>
+    </trkpt>
+    <trkpt lat="48.447678" lon="-70.972187">
+      <ele>0.62</ele>
+      <course>284.1</course>
+    </trkpt>
+    <trkpt lat="48.448157" lon="-70.974015">
+      <ele>1.1</ele>
+      <course>291.6</course>
+    </trkpt>
+    <trkpt lat="48.448657" lon="-70.974962">
+      <ele>0.62</ele>
+      <course>308.5</course>
+    </trkpt>
+    <trkpt lat="48.44946" lon="-70.977115">
+      <ele>0.62</ele>
+      <course>299.4</course>
+    </trkpt>
+    <trkpt lat="48.449738" lon="-70.977604">
+      <ele>0.62</ele>
+      <course>310.6</course>
+    </trkpt>
+    <trkpt lat="48.450075" lon="-70.978856">
+      <ele>1.1</ele>
+      <course>292.1</course>
+    </trkpt>
+    <trkpt lat="48.450151" lon="-70.979765">
+      <ele>1.1</ele>
+      <course>277.2</course>
+    </trkpt>
+    <trkpt lat="48.450228" lon="-70.982706">
+      <ele>1.58</ele>
+      <course>272.3</course>
+    </trkpt>
+    <trkpt lat="48.450435" lon="-70.984687">
+      <ele>1.58</ele>
+      <course>279.0</course>
+    </trkpt>
+    <trkpt lat="48.45144" lon="-70.988222">
+      <ele>2.06</ele>
+      <course>293.2</course>
+    </trkpt>
+    <trkpt lat="48.451608" lon="-70.989259">
+      <ele>2.06</ele>
+      <course>283.7</course>
+    </trkpt>
+    <trkpt lat="48.451833" lon="-70.990088">
+      <ele>2.06</ele>
+      <course>292.3</course>
+    </trkpt>
+    <trkpt lat="48.45195" lon="-70.991518">
+      <ele>3.02</ele>
+      <course>277.0</course>
+    </trkpt>
+    <trkpt lat="48.452185" lon="-70.99239">
+      <ele>2.06</ele>
+      <course>292.1</course>
+    </trkpt>
+    <trkpt lat="48.452457" lon="-70.994235">
+      <ele>3.02</ele>
+      <course>282.5</course>
+    </trkpt>
+    <trkpt lat="48.452691" lon="-70.995142">
+      <ele>3.02</ele>
+      <course>291.3</course>
+    </trkpt>
+    <trkpt lat="48.452865" lon="-70.99638">
+      <ele>3.5</ele>
+      <course>282.0</course>
+    </trkpt>
+    <trkpt lat="48.453325" lon="-70.998591">
+      <ele>3.02</ele>
+      <course>287.4</course>
+    </trkpt>
+    <trkpt lat="48.453496" lon="-71.00171">
+      <ele>3.5</ele>
+      <course>274.7</course>
+    </trkpt>
+    <trkpt lat="48.453605" lon="-71.00227">
+      <ele>3.5</ele>
+      <course>286.4</course>
+    </trkpt>
+    <trkpt lat="48.453619" lon="-71.003177">
+      <ele>3.5</ele>
+      <course>271.3</course>
+    </trkpt>
+    <trkpt lat="48.453562" lon="-71.003462">
+      <ele>3.5</ele>
+      <course>253.2</course>
+    </trkpt>
+    <trkpt lat="48.453203" lon="-71.004005">
+      <ele>4.94</ele>
+      <course>225.1</course>
+    </trkpt>
+    <trkpt lat="48.452713" lon="-71.004405">
+      <ele>3.98</ele>
+      <course>208.4</course>
+    </trkpt>
+    <trkpt lat="48.452347" lon="-71.004963">
+      <ele>3.98</ele>
+      <course>225.3</course>
+    </trkpt>
+    <trkpt lat="48.452114" lon="-71.005594">
+      <ele>3.98</ele>
+      <course>240.9</course>
+    </trkpt>
+    <trkpt lat="48.45174" lon="-71.006134">
+      <ele>3.98</ele>
+      <course>223.8</course>
+    </trkpt>
+    <trkpt lat="48.450731" lon="-71.0072">
+      <ele>4.94</ele>
+      <course>215.0</course>
+    </trkpt>
+    <trkpt lat="48.448985" lon="-71.009876">
+      <ele>4.94</ele>
+      <course>225.5</course>
+    </trkpt>
+    <trkpt lat="48.448234" lon="-71.010732">
+      <ele>5.91</ele>
+      <course>217.1</course>
+    </trkpt>
+    <trkpt lat="48.44756" lon="-71.011805">
+      <ele>5.42</ele>
+      <course>226.6</course>
+    </trkpt>
+    <trkpt lat="48.445401" lon="-71.014757">
+      <ele>4.94</ele>
+      <course>222.2</course>
+    </trkpt>
+    <trkpt lat="48.444626" lon="-71.015604">
+      <ele>4.94</ele>
+      <course>215.9</course>
+    </trkpt>
+    <trkpt lat="48.44293" lon="-71.018022">
+      <ele>4.46</ele>
+      <course>223.4</course>
+    </trkpt>
+    <trkpt lat="48.441932" lon="-71.019273">
+      <ele>4.94</ele>
+      <course>219.7</course>
+    </trkpt>
+    <trkpt lat="48.440547" lon="-71.021671">
+      <ele>4.94</ele>
+      <course>229.0</course>
+    </trkpt>
+    <trkpt lat="48.439645" lon="-71.023042">
+      <ele>4.46</ele>
+      <course>225.2</course>
+    </trkpt>
+    <trkpt lat="48.439071" lon="-71.023505">
+      <ele>4.94</ele>
+      <course>208.2</course>
+    </trkpt>
+    <trkpt lat="48.437868" lon="-71.026034">
+      <ele>5.42</ele>
+      <course>234.4</course>
+    </trkpt>
+    <trkpt lat="48.436381" lon="-71.028661">
+      <ele>5.91</ele>
+      <course>229.5</course>
+    </trkpt>
+    <trkpt lat="48.435615" lon="-71.029588">
+      <ele>6.39</ele>
+      <course>218.8</course>
+    </trkpt>
+    <trkpt lat="48.434837" lon="-71.031714">
+      <ele>5.91</ele>
+      <course>241.1</course>
+    </trkpt>
+    <trkpt lat="48.434694" lon="-71.032288">
+      <ele>6.39</ele>
+      <course>249.4</course>
+    </trkpt>
+    <trkpt lat="48.43454" lon="-71.032537">
+      <ele>6.39</ele>
+      <course>227.0</course>
+    </trkpt>
+    <trkpt lat="48.433468" lon="-71.035864">
+      <ele>6.39</ele>
+      <course>244.1</course>
+    </trkpt>
+    <trkpt lat="48.433343" lon="-71.036122">
+      <ele>6.39</ele>
+      <course>233.9</course>
+    </trkpt>
+    <trkpt lat="48.432981" lon="-71.037375">
+      <ele>6.39</ele>
+      <course>246.5</course>
+    </trkpt>
+    <trkpt lat="48.432846" lon="-71.038114">
+      <ele>6.39</ele>
+      <course>254.6</course>
+    </trkpt>
+    <trkpt lat="48.432557" lon="-71.041082">
+      <ele>5.91</ele>
+      <course>261.7</course>
+    </trkpt>
+    <trkpt lat="48.432169" lon="-71.0426">
+      <ele>6.39</ele>
+      <course>248.9</course>
+    </trkpt>
+    <trkpt lat="48.432104" lon="-71.043249">
+      <ele>5.91</ele>
+      <course>261.4</course>
+    </trkpt>
+    <trkpt lat="48.431727" lon="-71.044533">
+      <ele>5.91</ele>
+      <course>246.1</course>
+    </trkpt>
+    <trkpt lat="48.431625" lon="-71.045775">
+      <ele>5.91</ele>
+      <course>262.9</course>
+    </trkpt>
+    <trkpt lat="48.431542" lon="-71.04607">
+      <ele>5.42</ele>
+      <course>247.0</course>
+    </trkpt>
+    <trkpt lat="48.431407" lon="-71.046101">
+      <ele>5.91</ele>
+      <course>188.7</course>
+    </trkpt>
+    <trkpt lat="48.431103" lon="-71.046484">
+      <ele>5.91</ele>
+      <course>219.9</course>
+    </trkpt>
+    <trkpt lat="48.430801" lon="-71.047554">
+      <ele>5.91</ele>
+      <course>247.0</course>
+    </trkpt>
+    <trkpt lat="48.430808" lon="-71.048256">
+      <ele>5.91</ele>
+      <course>270.9</course>
+    </trkpt>
+    <trkpt lat="48.430577" lon="-71.049127">
+      <ele>5.91</ele>
+      <course>248.2</course>
+    </trkpt>
+    <trkpt lat="48.43039" lon="-71.050187">
+      <ele>6.39</ele>
+      <course>255.1</course>
+    </trkpt>
+    <trkpt lat="48.430366" lon="-71.051296">
+      <ele>6.39</ele>
+      <course>268.1</course>
+    </trkpt>
+    <trkpt lat="48.430438" lon="-71.051377">
+      <ele>5.91</ele>
+      <course>323.3</course>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>
