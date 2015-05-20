@@ -120,11 +120,10 @@ var positionCircle = L.circle(DEFAULT_POSITION, 10, {
 
 // from url arguments, the gpx file to load
 gpxArgument=gup('gpx');
-gpxFilesToLoad = false;
+gpxList = [];
 
 if(gpxArgument){
 	gpxList = gpxArgument.split(SPLIT_CHAR);
-	gpxFilesToLoad = true;
 }
 
 
@@ -306,7 +305,7 @@ if(skin){
 
 
 // display GPX tracks and adds controls
-if(gpxFilesToLoad){
+if(gpxList.length){
 
 
 
@@ -379,7 +378,7 @@ if(positionArgument){
 
 
 // if nothing was specified in the url, we locate
-if(!gpxFilesToLoad && !markersArray.length && !positionArgument && !imagesInUrl.length){
+if(!gpxList.length && !markersArray.length && !positionArgument && !imagesInUrl.length){
 	console.log("locate!");
 	map.locate({setView: true, watch: false}) /* This will return map so you can do chaining */
 		.on('locationfound', function(e){
