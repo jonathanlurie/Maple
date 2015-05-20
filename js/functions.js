@@ -483,10 +483,10 @@ function addGeoImageAfterCheck(f) {
 		if(typeof exif["GPSLatitude"] !== "undefined") {
 
 			imageFilesToLoad.push(f);
-			//console.log(exif);
+			console.log(exif);
 
-			var lat = ( exif["GPSLatitude"][0] + exif["GPSLatitude"][1]/60. ) * (exif["GPSLatitudeRef"] == "N"?1:-1 );
-			var lon = ( exif["GPSLongitude"][0] + exif["GPSLongitude"][1]/60. ) * (exif["GPSLongitudeRef"] == "W"?-1:1 );
+			var lat = ( exif["GPSLatitude"][0] + exif["GPSLatitude"][1]/60. + exif["GPSLatitude"][2]/3600.) * (exif["GPSLatitudeRef"] == "N"?1:-1 );
+			var lon = ( exif["GPSLongitude"][0] + exif["GPSLongitude"][1]/60. + exif["GPSLongitude"][2]/3600.) * (exif["GPSLongitudeRef"] == "W"?-1:1 );
 			var desc = exif["ImageDescription"];
 
 			//console.log("lat : " + lat);
