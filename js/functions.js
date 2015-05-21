@@ -198,7 +198,7 @@ function getBaseUrl(){
 // re build the url using gup, except for the skin
 function buildUrlNoSkin(){
 
-	completeUrl = getBaseUrl() += "?";
+	completeUrl = getBaseUrl() + "?";
 
 	// adding gpx info
 	gpxArgument=gup('gpx');
