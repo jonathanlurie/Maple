@@ -12,7 +12,7 @@ All the following features are embedable with URL customization.
 - GPX upload [demo](http://maple.jonathanlurie.fr/manage)
 - Adding markers (pin) with description and/or image  [demo](http://maple.jonathanlurie.fr/display?marker1=42.86935933652262|0.5260133743286133|Hello&skin=Mapbox__Terrain)
 - Photo localisation with GPS EXIF (photo ust be on the same server) [demo](http://maple.jonathanlurie.fr/display?&image=http://maple.jonathanlurie.fr/photos/wemontreal-10.jpg&skin=Mapbox__Terrain)
-- Share a map with a specific position and zoom, without a marker. Also usefull to not center a gpx or marker, since *position* is the last to decide where to look at. [simple demo](http://maple.jonathanlurie.fr/display?&position=40.70562793820592|-73.99626731872559|18) or [demo with marker](http://maple.jonathanlurie.fr/display?&position=40.71562793820592|-73.99626731872559|18&marker1=40.71563103730812|-73.99849355220795|This__marker__is__not__centered,__thanks__to__the__position__argument&skin=Mapbox__Terrain)
+- Share a map with a specific position and zoom, without a marker. Also usefull to not center a gpx or marker, since *position* is the last to decide where to look at. [simple demo](http://maple.jonathanlurie.fr/display?&position=40.70562793820592|-73.99626731872559|18) or [demo with marker](http://bit.ly/1K5CIy7)
 - Self localisation (if enabled by your device) [demo](http://maple.jonathanlurie.fr/display)
 - Several tile servers, with diferent designs [demo](http://maple.jonathanlurie.fr/display?marker1=40.70562793820592|-73.99626731872559|That%27s__Brooklin__Bridge&skin=Mapbox__Winter)
 - Iframe code generator to embed a map in a webpage/blogpost
