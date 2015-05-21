@@ -1,3 +1,5 @@
+![](http://maple.jonathanlurie.fr/icons/maple_logo)
+
 # Overview
 Maple is a URL-based sharing plateform, meaning it's made for sharing map that contain informations with a simple URL.
 
@@ -7,7 +9,7 @@ All the following features are embedable with URL customization.
 
 - copy-paste install on your server
 - GPX track display with markers for waypoints and total distance calculation [demo](http://maple.jonathanlurie.fr/display?gpx=PortDeBales.gpx)
-- GPX upload (manage part)
+- GPX upload [demo](http://maple.jonathanlurie.fr/manage)
 - Adding markers (pin) with description and/or image  [demo](http://maple.jonathanlurie.fr/display?marker1=42.86935933652262|0.5260133743286133|Hello&skin=Mapbox__Terrain)
 - Photo localisation with GPS EXIF (photo ust be on the same server) [demo](http://maple.jonathanlurie.fr/display?&image=http://maple.jonathanlurie.fr/photos/wemontreal-10.jpg&skin=Mapbox__Terrain)
 - Self localisation (if enabled by your device) [demo](http://maple.jonathanlurie.fr/display)
