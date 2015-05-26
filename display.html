@@ -89,7 +89,7 @@
 
 DEFAULT_POSITION = [60.1708, 24.9375];
 DEFAULT_ZOOM = 15;
-SPLIT_CHAR = '|';
+SPLIT_CHAR = '*';
 REPLACE_CHAR = '__';
 DEFAULT_MARKER_DESCRIPTION = "This marker has nothing to say.";
 
@@ -413,7 +413,7 @@ map.on('contextmenu', function(e) {
 
 	lat = e.latlng.lat.toFixed(5);
 	lon = e.latlng.lng.toFixed(5);
-	mapleUrl = getBaseUrl() + "?marker1=" + lat + "|" + lon + "|this__place";
+	mapleUrl = getBaseUrl() + "?marker1=" + lat + SPLIT_CHAR + lon + SPLIT_CHAR + "this__place";
 	gglurl = 'https://www.google.com/maps?q=' + lat + ',' + lon;
 
 	bootbox.dialog({
