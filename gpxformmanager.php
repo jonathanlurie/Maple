@@ -21,14 +21,12 @@
       for($i=0; $i < $N; $i++)
       {
         //echo($gpxFileList[$i] . " ");
-        $link .= $gpxFileList[$i] . ($i<($N-1)?"|":'');
+        $link .= $gpxFileList[$i] . ($i<($N-1)?"*":'');
       }
 
 
-     	//echo $link;
-
       header('Location:'.$link);
-      //header('Location: http://www.commentcamarche.net/forum/');
+
       exit();
     }
 
