@@ -1,3 +1,7 @@
+
+// callback to change the Save button label as long long as the
+// user is typing in the save field.
+// The purpose is to give a hint if this filename is already taken
 function filenameOnChange(){
   filename = $("#filename").val();
   console.log(filename);
@@ -33,6 +37,9 @@ function filenameOnChange(){
   });
 }
 
+
+// update the state of the Save button
+// from enabled to disabled
 function updateSaveButtonState(){
   if($("#filename").val() == ""){
     $("#saveButton").prop('disabled', true);
@@ -42,6 +49,8 @@ function updateSaveButtonState(){
 }
 
 
+// save the content of the md editor to the server-side files
+// (having the name grom the field)
 function saveFile(){
   filename = $("#filename").val();
 
@@ -63,23 +72,33 @@ function saveFile(){
   });
 }
 
+
+// remove all text from md editor and from the save field
 function cleanAll(){
   editor.getElement('editor').body.innerHTML = "";
   $("#filename").val("");
 }
 
 
-function loadFile(mdFile){
-  $(document).load("md_files/" + mdFile, function(response, status, xhr) {
+function displayMdFile(filename, content){
+  $("#filename").val(filename);
+  editor.getElement('editor').body.innerHTML = content.replace(/\n/g, "<br />");
+  $("#saveButton").html("Overwrite");
+  updateSaveButtonState();
+}
+
+// load a markdown file from its name.
+// when it's loaded, it is displayed in the markdown editor
+function loadMdFile(mdFile, doSomethingSuccess, doSomethingFail){
+  $(document).load(MARKDOWN_DIR + mdFile, function(response, status, xhr) {
     console.log(status);
 
     if(status == "success"){
-      $("#filename").val(mdFile);
-      editor.getElement('editor').body.innerHTML = response.replace(/\n/g, "<br />");
-      $("#saveButton").html("Overwrite");
-      updateSaveButtonState();
+      doSomethingSuccess(mdFile, response);
     }else{
-      cleanAll();
+      if(typeof doSomethingFail == "function"){
+        doSomethingFail(mdFile, response);
+      }
     }
 
   });

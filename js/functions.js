@@ -1,4 +1,6 @@
 
+
+
 // this function is mapped with the button with the little bug
 function debugIt(){
 	//alert(buildUrlNoSkin());
@@ -165,18 +167,6 @@ function promptEmbedForm(action){
 
 }
 
-
-// fetch the url arguments
-function gup( name, url ) {
-
-	// usage : mywebsite.com/page.html?gpx=myfile.gpx
-  if (!url) url = location.href
-  name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
-  var regexS = "[\\?&]"+name+"=([^&#]*)";
-  var regex = new RegExp( regexS );
-  var results = regex.exec( url );
-  return results == null ? null : results[1];
-}
 
 
 
@@ -482,7 +472,7 @@ function addGeoImageAfterCheck(f) {
 		// check if we have GPS informations
 		if(typeof exif["GPSLatitude"] !== "undefined") {
 
-			imageFilesToLoad.push(f);
+			//imageFilesToLoad.push(f);
 			console.log(exif);
 
 			var lat = ( exif["GPSLatitude"][0] + exif["GPSLatitude"][1]/60. + exif["GPSLatitude"][2]/3600.) * (exif["GPSLatitudeRef"] == "N"?1:-1 );
@@ -534,4 +524,10 @@ function addMarker(lat, lon){
 
 	map.addLayer(tmpMarker);
 	map.panTo(new L.LatLng(lat, lon));
+}
+
+
+
+function initializeMap(){
+
 }

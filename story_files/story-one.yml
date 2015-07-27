@@ -1,0 +1,47 @@
+---
+# Main title
+title : The First Story
+
+# The subtitle may be displayed somehow
+subtitle : A story about something very nice.
+
+# the date, to order articles
+date : 2015-07-26
+
+# author of the story
+author : Jonathan Lurie
+
+# Main image, may be used as a cover/featured image
+coverImage: img/cover1.jpg
+
+# the text of the story
+text : 2015-07-22-les-differences-quebec-france.md
+
+excertp : >
+  This story is about something
+  that happened and I thought it would
+  be cool to tell. Here is the excerpt of it.
+
+# tracks to display, so far only gpx files
+gps:
+  - RK_gpx__2015-07-16_1956.gpx
+
+# images to display on the map, must contain geo-localization
+images:
+  - img/wemontreal-9.jpg
+
+# skin to use for the map of this story.
+# choices are:
+# Mapbox Terrain
+# Mapbox Desert
+# Mapbox Winter
+# Mapbox Green
+# OSM
+# OSM Transport
+# OSM Topo
+# OSM Cycling
+# ESRI Topographic
+# ESRI Oceans
+# ESRI DarkGray
+# ESRI Imagery
+mapskin : Mapbox Terrain

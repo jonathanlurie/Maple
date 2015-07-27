@@ -8,6 +8,7 @@
         <script src="js/EpicEditor/js/epiceditor.js"></script>
 
         <!-- necessary for this project -->
+        <script src="js/constants.js"></script>
       	<script src="js/functions.js"></script>
 
         <script src="js/editorFunctions.js"></script>
@@ -36,7 +37,7 @@
 
         // load the file from url
         if(mdFile != null){
-          loadFile(mdFile);
+          loadMdFile(mdFile, displayMdFile, cleanAll);
         }
 
 
