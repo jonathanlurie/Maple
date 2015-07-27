@@ -24,7 +24,6 @@
         $link .= $gpxFileList[$i] . ($i<($N-1)?"*":'');
       }
 
-
       header('Location:'.$link);
 
       exit();

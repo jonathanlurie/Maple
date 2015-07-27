@@ -28,3 +28,47 @@ h2{
   height : 35px;
 
 }
+
+
+
+
+a:link {
+    color: ##006a86;
+    text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+    color: ##006a86;
+}
+
+/* mouse over link */
+a:hover {
+    color: #FF00FF;
+}
+
+/* selected link */
+a:active {
+    color: #0000FF;
+}
+
+
+img {
+  max-width: 100%;
+}
+
+
+#storyDiv{
+  position: absolute;
+
+  width: 35%;
+  height: 100%;
+  right: 0;
+  top: 0;
+
+  background-color: rgba(255, 255, 255, 0.5);
+
+  padding: 20px;
+  overflow: scroll;
+
+}

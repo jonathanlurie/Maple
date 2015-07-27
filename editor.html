@@ -1,0 +1,54 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <title>Maple Editor</title>
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+        <script src="js/EpicEditor/js/epiceditor.js"></script>
+
+        <!-- necessary for this project -->
+      	<script src="js/functions.js"></script>
+
+        <script src="js/editorFunctions.js"></script>
+
+
+    </head>
+
+    <body>
+      <div id="epiceditor"></div>
+      <br>
+
+      <input id="filename" type="text" onkeyup="filenameOnChange()">
+      <button id="saveButton" type="button" onclick="saveFile()" >Save</button>
+      <p id="saveFeedback" ></p>
+
+      <script>
+
+
+      // creating an editor instance
+      var editor = new EpicEditor().load();
+
+      $(document).ready(function(){
+
+        // check if there is a file specified in URL
+        mdFile=gup('text');
+
+        // load the file from url
+        if(mdFile != null){
+          loadFile(mdFile);
+        }
+
+
+        updateSaveButtonState();
+
+
+
+
+      });
+
+      </script>
+
+
+    </body>
+</html>

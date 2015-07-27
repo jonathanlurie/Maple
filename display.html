@@ -26,6 +26,8 @@
 	<!-- necessary for JQuery -->
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 
+		<link href="css/style.css" rel="stylesheet" />
+
 	<!-- necessary for Leaflet -->
 	<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.1/leaflet.css" />
 	<script src="http://cdn.leafletjs.com/leaflet-0.7.1/leaflet.js"></script>
@@ -71,6 +73,10 @@
 	<script src="js/imageinfo/exif.js"></script>
 	<script src="js/imageinfo/binaryajax.js"></script>
 	<script src="js/imageinfo/imageinfo.js"></script>
+
+	<!-- necessary for this project -->
+	<script src="js/showdown/dist/showdown.js"></script>
+	<script src="js/youtube-extension/showdown-youtube.js"></script>
 
 	<!-- necessary for this project -->
 	<script src="js/functions.js"></script>
@@ -181,6 +187,16 @@ var showControls = 1;
 controlArgument = gup('controls');
 if(controlArgument){
 	showControls = parseInt(controlArgument);
+}
+
+
+// from url arguments, the text to load and display (markdown files)
+mdArgument = gup('text');
+mdFilesToLoad = [];
+mdInUrl = []
+
+if(mdArgument){
+	mdInUrl = mdArgument.split(SPLIT_CHAR);
 }
 
 
@@ -521,11 +537,46 @@ var debugBt = L.easyButton('fa-bug',
 
 
 
+// displaying markdown files on the side panel
+if(mdInUrl.length){
+//for(i=0; i< mdInUrl.length ; i++){
+	completeUrl = "md_files/" + mdInUrl[0];
+
+	console.log(completeUrl);
+
+	$.get(completeUrl, function(response) {
+	    	var markdownContent = response;
+
+				if(markdownContent){
+					// creation of side div
+					$("body").append('<div id="storyDiv"></div>');
+
+					// to convert markdown to html
+					var converter = new showdown.Converter();
+					var converter = new showdown.Converter({extensions: ['youtube']});
+					converter.setOption('tasklists', true);
+
+					converter.setOption('strikethrough', true);
+
+					//console.log(markdownContent);
+					$("#storyDiv").html(converter.makeHtml(markdownContent));
+				}else{
+					console.log("rien!");
+				}
+
+	});
+}
 
 
+
+
+
+//$("#storyDiv").html("hello <b>there</b>");
 
 
 </script>
+
+
 
 </body>
 </html>

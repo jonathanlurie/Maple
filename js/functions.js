@@ -524,3 +524,14 @@ function addGeoImageAfterCheck(f) {
 	map.spin(false);
 
 }
+
+
+
+
+function addMarker(lat, lon){
+
+	tmpMarker = L.marker([ lat , lon ]);
+
+	map.addLayer(tmpMarker);
+	map.panTo(new L.LatLng(lat, lon));
+}

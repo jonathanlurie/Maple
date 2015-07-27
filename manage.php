@@ -62,10 +62,13 @@
 		<div id='fileList' class="grayDiv">
 
 			<h2>Available GPX files</h2>
+			
 
 			<?php
+				$gpxFolderLocal = 'gpx_files';
+				$gpxFolderPath = "http://".$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI']."/../".$gpxFolderLocal;
 
-				if ($handle = opendir('gpx_files')) {
+				if ($handle = opendir($gpxFolderLocal)) {
 				?>
 					<form action="gpxformmanager.php" method="post">
 
@@ -73,13 +76,17 @@
 
     			while (false !== ($entry = readdir($handle))) {
 
-        		if ($entry != "." && $entry != "..") {
+				$file_parts = pathinfo($entry);
+
+        		if ($entry != "." && $entry != ".." && ($file_parts['extension'] == "gpx" || $file_parts['extension'] == "GPX") ) {
 
 
-							$link = 'display?gpx='.$entry;
-							//echo "<a href=".$link.'>'.$entry."</a><br>";
-
-							echo "<input class='margin-10' type='checkbox' name='gpxfile[]' value='".$entry."'> ".$entry."<br>";
+							$link = $gpxFolderPath."/".$entry;
+							//echo "<a href=$link>$entry</a>"<br>";
+							
+							
+							
+							echo "<input class='margin-10' type='checkbox' name='gpxfile[]' value='".$entry."'> "."<a href=$link>$entry</a>"."<br>";
 
         		}
     			}
