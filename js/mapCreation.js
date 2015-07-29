@@ -133,6 +133,8 @@ function initializeMap(gpxList, positionAndZoom, markersArray, imagesInUrl, skin
   				tracks[gpxList[i]] = new L.GPX(GPS_DIR + gpxList[i], {async: true})
   					.on("loaded", function(e) {
 
+              extendWideBounds(e.target.getBounds());
+
   						// we do center on the last gpx, only if no specific marker is specified in url
   						if(!markersArray.length && !positionAndZoom.length){
   							map.fitBounds(e.target.getBounds());
@@ -145,6 +147,7 @@ function initializeMap(gpxList, positionAndZoom, markersArray, imagesInUrl, skin
 
   				tracks[gpxList[i]] = new L.GPX(GPS_DIR + gpxList[i], {async: true})
   					.on("loaded", function(e) {
+              extendWideBounds(e.target.getBounds());
   						map.spin(false);
   				}).addTo(map);
   			}
@@ -176,6 +179,7 @@ function initializeMap(gpxList, positionAndZoom, markersArray, imagesInUrl, skin
 
   	if(i == markersArray.length-1){
   		map.setView(markersArray[i].getLatLng(), DEFAULT_ZOOM);
+      extendWideBounds(markersArray[i].getLatLng());
   		markersArray[i].openPopup();
   		updateZoomHome();
   	}
@@ -200,7 +204,6 @@ function initializeMap(gpxList, positionAndZoom, markersArray, imagesInUrl, skin
 
   		})
   	.on('locationerror', function(e){
-  				console.log(e);
   				alert("Location access denied.");
 
   				// if locate fails, we go to default position
@@ -218,7 +221,7 @@ function initializeMap(gpxList, positionAndZoom, markersArray, imagesInUrl, skin
 
 
 
-
+  if(showControls){
 
   //Right click on the map activated
   map.on('contextmenu', function(e) {
@@ -237,7 +240,7 @@ function initializeMap(gpxList, positionAndZoom, markersArray, imagesInUrl, skin
 
 
 
-  if(showControls){
+
 
   	var miniMap = new L.Control.MiniMap(minimapTileset, { toggleDisplay: true }).addTo(map);
 
@@ -339,8 +342,6 @@ function initializeMap(gpxList, positionAndZoom, markersArray, imagesInUrl, skin
   //for(i=0; i< mdInUrl.length ; i++){
   	completeUrl = "md_files/" + mdInUrl[0];
 
-  	console.log(completeUrl);
-
   	$.get(completeUrl, function(response) {
   	    	var markdownContent = response;
 
@@ -355,8 +356,6 @@ function initializeMap(gpxList, positionAndZoom, markersArray, imagesInUrl, skin
 
   					//console.log(markdownContent);
   					$("#storyDiv").html(converter.makeHtml(markdownContent));
-  				}else{
-  					console.log("rien!");
   				}
 
   	});

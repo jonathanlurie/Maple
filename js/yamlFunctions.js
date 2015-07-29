@@ -7,6 +7,8 @@ $.getScript("js/functions.js");
 $.getScript("js/mapCreation.js");
 
 
+
+
 // main entry point of the story loading part.
 // since this method is asynchronous, the rest will be triggered from it.
 // doSomething is a function to call when the json object of the yaml is ready.
@@ -24,8 +26,6 @@ function loadYmlFile(ymlFile, doSomething){
         doSomething(storyJson);
       }
 
-    }else{
-      console.log("the file " + ymlFile + " failed to load.")
     }
 
   });
@@ -44,9 +44,12 @@ function displayOneStory(story){
   $("#author").html(story.author);
   $("#excertp").html(story.excertp);
   //$("#cover").attr("src", story.coverImage);
-  $('#storyHeader').css("background-image", "url("+story.coverImage+")");
-  $('#storyHeader').css("background-size", "cover");
-  $('#storyHeader').css("background-position", "center 50%");
+  //$("#miniProfile").attr("src", story.coverImage);
+  $("#miniProfile").attr("src", "img/profile/" + story.author.replace(' ', '_') + ".jpg");
+
+  $('#storyHeaderBackground').css("background-image", "url("+story.coverImage+")");
+  $('#storyHeaderBackground').css("background-size", "cover");
+  $('#storyHeaderBackground').css("background-position", "center 50%");
 
 
   loadMdFile(story.text, displayFullText, failedToLoadStory);
@@ -59,10 +62,45 @@ function displayOneStory(story){
   showControls = 0;
   mdInUrl = [];
 
+  displayImage(story.images);
+
   // call the map initialization
   initializeMap(gpxList, positionAndZoom, markersArray, imagesInUrl, skin, showControls, mdInUrl );
 
+
+
 }
+
+
+function displayImage(imgs){
+
+  // hide the side panel if there is no image
+  if(! imgs.length){
+    $("#imageRoll").hide();
+  }
+
+  for(i=0; i<imgs.length; i++){
+
+
+    $("#imageRoll").append('<img class="rolledImage" src="' + imgs[i] + '" onclick="localizeImageOnclick(this)" />');
+
+  }
+
+}
+
+
+function localizeImageOnclick(idImg){
+  //console.log($(idImg).attr("lat")   );
+
+  if($(idImg).is("[lat]")){
+    zoomTo($(idImg).attr("lat"), $(idImg).attr("lon"), 16);
+  }else{
+    console.log("no location");
+  }
+
+}
+
+
 
 // display the full text, after converting from MD to HTML
 function displayFullText(filename, content){
@@ -73,4 +111,61 @@ function displayFullText(filename, content){
 // a default 404 story to load, when the text loading failed for a real story
 function failedToLoadStory(){
   loadYmlFile("story404.yml", displayOneStory);
+}
+
+
+function hideStoryPanel(){
+
+  $( "#fulltext" ).fadeTo( "fast" , 0, function() {
+    // Animation complete.
+    $( "#fulltext" ).hide();
+  });
+
+  $( "#storyHeaderBackground" ).fadeTo( "fast" , 0, function() {
+    // Animation complete.
+    $( "#storyHeaderBackground" ).hide();
+  });
+
+  $( "#arrowFoldDiv" ).fadeTo( "fast" , 0, function() {
+    // Animation complete.
+    $( "#arrowFoldDiv" ).hide();
+  });
+
+  $( "#coverlightener" ).fadeTo( "fast" , 0, function() {
+    // Animation complete.
+    $( "#coverlightener" ).hide();
+    $("#arrowUnfoldDiv").show();
+
+  });
+
+
+
+
+}
+
+
+function showStoryPanel(){
+
+  $( "#fulltext" ).fadeTo( "fast" , 1, function() {
+    // Animation complete.
+    $( "#fulltext" ).show();
+  });
+
+  $( "#storyHeaderBackground" ).fadeTo( "fast" , 1, function() {
+    // Animation complete.
+    $( "#storyHeaderBackground" ).show();
+  });
+
+  $( "#arrowFoldDiv" ).fadeTo( "fast" , 1, function() {
+    // Animation complete.
+    $( "#arrowFoldDiv" ).show();
+  });
+
+  $( "#coverlightener" ).fadeTo( "fast" , 1, function() {
+    // Animation complete.
+    $( "#coverlightener" ).show();
+    $("#arrowUnfoldDiv").hide();
+
+  });
+
 }

@@ -1,13 +1,12 @@
 
 
 
+
 // this function is mapped with the button with the little bug
 function debugIt(){
 	//alert(buildUrlNoSkin());
 	//map.fitBounds(tracks[gpxList[0]].getBounds());
 	//alert("What you though it would do?");
-	console.log(imageFilesToLoad);
-
 }
 
 
@@ -22,7 +21,6 @@ function printObject(o) {
 		//}
   }
 	//alert(out);
-	console.log(out);
   //out += '<br><br><br>';
   //document.write(out);
 }
@@ -60,7 +58,6 @@ map.locate({setView: true, watch: true}) /* This will return map so you can do c
 
 	})
 .on('locationerror', function(e){
-			console.log(e);
 			alert("Location access denied.");
 
 			//map.setView(DEFAULT_POSITION , DEFAULT_ZOOM);
@@ -421,8 +418,8 @@ function focusOnGpxPrompt(){
                     className: "btn-success",
                     callback: function () {
 
-                        var chosenSkin = $("input[name='awesomeness']:checked").val();
-												map.fitBounds(tracks[chosenSkin].getBounds());
+                        var chosenTrack = $("input[name='awesomeness']:checked").val();
+												map.fitBounds(tracks[chosenTrack].getBounds());
 
 
                     }
@@ -464,7 +461,11 @@ function addGeoImage(){
 function addGeoImageAfterCheck(f) {
 
 
+
 	var exif = ImageInfo.getAllFields(f).exif;
+
+
+
 
 	// strange way to do, but in case of missload, false is returnes (instead of null)
 	if ( exif != false) {
@@ -473,7 +474,7 @@ function addGeoImageAfterCheck(f) {
 		if(typeof exif["GPSLatitude"] !== "undefined") {
 
 			//imageFilesToLoad.push(f);
-			console.log(exif);
+			//console.log(exif);
 
 			var lat = ( exif["GPSLatitude"][0] + exif["GPSLatitude"][1]/60. + exif["GPSLatitude"][2]/3600.) * (exif["GPSLatitudeRef"] == "N"?1:-1 );
 			var lon = ( exif["GPSLongitude"][0] + exif["GPSLongitude"][1]/60. + exif["GPSLongitude"][2]/3600.) * (exif["GPSLongitudeRef"] == "W"?-1:1 );
@@ -483,11 +484,20 @@ function addGeoImageAfterCheck(f) {
 			//console.log("lon : " + lon);
 			//console.log(desc);
 
+			/*
 			popupDesc = desc + '<br><a href="' + f +  '" target="_blank"><img src="' + f  + '" width="300px"></a>';
+			*/
+			popupDesc = desc + '<br><a href="' + f +  '" class="fancybox" target="_blank"><img src="' + f  + '" width="300px"></a>';
+
+      $("img[src$='" + f + "']").attr('lat', lat);
+      $("img[src$='" + f + "']").attr('lon', lon);
 
 			tmpMarker = L.marker([ lat , lon ], {icon: photoIcon}).bindPopup( popupDesc );
 
 			map.addLayer(tmpMarker);
+
+			extendWideBounds(tmpMarker.getLatLng());
+
 
 			// if there is no gpx to load, we center on the image
 			if(!gpxList.length){
@@ -497,12 +507,14 @@ function addGeoImageAfterCheck(f) {
 
 
 		// the image does not contain GPS information
-		}else{
+  }/*
+    else{
 			bootbox.dialog({
   			title: "Oh oh...",
   			message: 'Impossible to place this image.<br>The image does not contain GPS information in EXIF.'
 			});
 		}
+    */
 
 	}else{
 		bootbox.dialog({
@@ -513,21 +525,47 @@ function addGeoImageAfterCheck(f) {
 
 	map.spin(false);
 
+
+
 }
 
 
 
+// add a marker with a descriptio.
+// ISSUE : to popup does not show :(
+function addMarker(lat, lon, desc){
+	map.setView(new L.LatLng(lat, lon), DEFAULT_ZOOM);
 
-function addMarker(lat, lon){
+	tmpMarker = L.marker([ lat , lon ], {icon: regularIcon});
 
-	tmpMarker = L.marker([ lat , lon ]);
+	if(desc){
+		tmpMarker.bindPopup( desc);
+		tmpMarker.openPopup();
+	}
 
 	map.addLayer(tmpMarker);
-	map.panTo(new L.LatLng(lat, lon));
+
+}
+
+
+function zoomTo(lat, lon, zoom){
+	map.setView(new L.LatLng(lat, lon), zoom);
 }
 
 
 
-function initializeMap(){
+// is called to make the map fit all the features visible on map
+function extendWideBounds(feature){
 
+	if(! wideBounds){
+		wideBounds = L.latLngBounds(feature, feature);
+	}else{
+		wideBounds.extend(feature);
+
+	}
+
+	if(wideBounds.isValid()){
+		map.fitBounds(wideBounds, {maxZoom : DEFAULT_ZOOM});
+		updateZoomHome();
+	}
 }
