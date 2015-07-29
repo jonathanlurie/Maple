@@ -69,36 +69,10 @@ img {
   overflow: scroll;
 
   text-align: justify;
+  
+
 
 }
-
-#arrowFoldDiv{
-  position: absolute;
-  left: 0px;
-  top:0px;
-  margin: -3px;
-}
-
-#arrowUnfoldDiv{
-  position: absolute;
-  right: 0px;
-  top:0px;
-  margin: -3px;
-}
-
-.arrowFold{
-  font-size: 20px;
-}
-
-.arrowFold:hover {
-    color: #00AA00;
-}
-
-.fa-square{
-  color: rgba(255, 255, 255, 1);
-
-}
-
 
 #storyHeader{
   z-index: 10;
@@ -108,18 +82,7 @@ img {
   right: 0;
   top: 0;
   padding: 20px;
-  opacity: 1;
 }
-
-#storyHeaderBackground{
-  position: absolute;
-  min-height: 200px;
-  width: 35%;
-  right: 0;
-  top: 0;
-}
-
-
 
 
 #coverlightener{
@@ -136,50 +99,14 @@ img {
 #headerContent{
   position: absolute;
   padding-left: 20px;
+
   width: 100%;
   height: 100%;
   right: 0;
   top: 0;
+
   z-index: 10;
 }
-
-
-#miniProfile{
-  width : 40px;
-  margin-right: 10px;
-  border-radius: 100px;
-}
-
-
-
-#map{
-  position: absolute;
-  left : 0;
-  width:100%;
-  height:100%;
-
-}
-
-
-#imageRoll{
-  position : absolute;
-  left : 0;
-  width : 100px;
-  height: 100%;
-  background-color: rgba(255, 255, 255, 0.3);
-  padding-top: 100px;
-  overflow: scroll;
-}
-
-
-
-.rolledImage{
-  width: 80px;
-  margin-bottom: 5px;
-  margin-left: 10px;
-}
-
-
 
 .headTitle{
   color: #000;
@@ -190,14 +117,21 @@ img {
 
 .headSubtitle{
   color: #000;
-  margin: 0 0 0 0;
+  margin: 0 0 5 0;
   font-size: 16px;
 }
 
 .textInfo{
   color: #000;
-  margin: 10 0 5 0;
+  margin: 20 0 5 0;
   font-size: 12px;
+}
+
+#map{
+
+  width:100%;
+  height:100%;
+
 }
 
 
@@ -221,9 +155,4 @@ img {
   width : 100px;
   height : 35px;
 
-}
-
-
-.fancybox-overlay{
-  background-color: rgba(0, 0, 0, 0.7);
 }
