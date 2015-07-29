@@ -28,7 +28,7 @@
 
 	<!-- necessary for Leaflet -->
 	<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.1/leaflet.css" />
-	<script src="http://cdn.leafletjs.com/leaflet-0.7.1/leaflet.js"></script>
+	<script src="http://cdn.leafletjs.com/leaflet-0.7.1/leaflet-src.js"></script>
 
 	<!-- necessary for GPX -->
 	<script src="js/GPXplugin/GPX.js"></script>
@@ -160,6 +160,9 @@ mdInUrl = []
 if(mdArgument){
 	mdInUrl = mdArgument.split(SPLIT_CHAR);
 }
+
+// globla object to manage fit box
+var wideBounds = null;
 
 // call the map initialization
 initializeMap(gpxList, positionAndZoom, markersArray, imagesInUrl, skin, showControls, mdInUrl );
