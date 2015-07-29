@@ -1,8 +1,26 @@
+<?php
+
+require('php/StoryDataFetcher.php');
+
+$sdf = new StoryDataFetcher("story-one");
+
+
+?>
+
+
 <html>
 <head>
 	<meta charset="UTF-8">
 
-        <title>Maple STORY</title>
+        <title><?php echo $sdf->buildTitle(); ?></title>
+
+
+				<?php
+					// display all the meta markups related to the current article
+					echo $sdf->buildMetaMarkups();
+				?>
+
+
 
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 
@@ -54,6 +72,14 @@
       	<script src="js/showdown/dist/showdown.js"></script>
       	<script src="js/youtube-extension/showdown-youtube.js"></script>
 
+
+				<!-- necessary for fancybox -->
+				<script src="js/jqueryfancybox/jquery.fancybox.js"></script>
+				<link rel="stylesheet" type="text/css" href="js/jqueryfancybox/jquery.fancybox.css">
+
+				<!-- necessary for fontawesome -->
+				<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+
         <!-- necessary for this project -->
         <script src="js/constants.js"></script>
       	<script src="js/functions.js"></script>
@@ -73,21 +99,49 @@
 
 
 
+
+
+			<div id="storyHeaderBackground">
+			</div>
+
+
+
       <div id="storyHeader">
         <!--<img id="cover"></img>-->
         <div id="headerContent">
           <h1 id="title" class="headTitle"></h1>
           <h2 id="subtitle" class="headSubtitle"></h2>
-          <p class="textInfo"><span id="date"></span> by <span id="author"></span>.</p>
+          <p class="textInfo"><img id="miniProfile"><span id="date"></span> by <span id="author"></span>.</p>
+
+					<div id="arrowFoldDiv" onclick="hideStoryPanel();">
+						<span class="fa-stack fa-lg">
+						<i class="fa fa-square fa-stack-2x"></i>
+						<i class="fa fa-stack-1x fa-angle-double-right arrowFold"></i>
+					</span>
+					</div>
+
+					<div id="arrowUnfoldDiv" onclick="showStoryPanel();">
+						<span class="fa-stack fa-lg">
+						<i class="fa fa-square fa-stack-2x"></i>
+						<i class="fa fa-stack-1x fa-angle-double-left arrowFold"></i>
+					</span>
+					</div>
+
+
         </div>
         <div id="coverlightener"></div>
       </div>
 
+			<div id="imageRoll" >
+			</div>
 
 
       <p id="excertp"></p>
 
-      <div id="fulltext"></div>
+			<div id="fulltext"></div>
+
+
+
 
 
       <script>
@@ -97,12 +151,27 @@
       // create map instance
       var map = new L.Map('map',  {zoomControl: false, center: new L.LatLng(0, 0), zoom: 11});
       var zoomHome = null;
+			var wideBounds = null;
 
+			$("a[href$='.jpg'],a[href$='.png'],a[href$='.gif']").attr('rel', 'gallery').fancybox();
+
+			$(".fancybox").fancybox({
+			    beforeShow : function() {
+			        var alt = this.element.find('img').attr('alt');
+
+			        this.inner.find('img').attr('alt', alt);
+
+			        this.title = alt;
+			    }
+			});
 
 
 
 
       $(document).ready(function(){
+
+				$("#arrowUnfoldDiv").hide();
+
         // check if there is a file specified in URL.
         // we are looking for a yml extensioned file (story.yml)
         storyFile=gup('story');
@@ -113,26 +182,6 @@
         }
 
       });
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
