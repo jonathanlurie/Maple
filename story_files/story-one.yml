@@ -11,11 +11,17 @@ date : 2015-07-26
 # author of the story
 author : Jonathan Lurie
 
+# Name of the website
+sitename : Jonathan Lurie
+
+# keywords, split by coma
+keywords : test, photo, article
+
 # Main image, may be used as a cover/featured image
 coverImage: img/cover1.jpg
 
 # the text of the story
-text : 2015-07-22-les-differences-quebec-france.md
+text : testfile.md
 
 excertp : >
   This story is about something
@@ -24,11 +30,32 @@ excertp : >
 
 # tracks to display, so far only gpx files
 gps:
-  - RK_gpx__2015-07-16_1956.gpx
+  - 2015_5_22_log.gpx
+  - 2015_7_12_log.gpx
 
 # images to display on the map, must contain geo-localization
 images:
   - img/wemontreal-9.jpg
+  - img/eternite-1.jpg
+  - img/eternite-2.jpg
+  - img/eternite-3.jpg
+  - img/eternite-4.jpg
+  - img/eternite-5.jpg
+  - img/eternite-6.jpg
+  - img/eternite-7.jpg
+  - img/eternite-8.jpg
+  - img/eternite-9.jpg
+  - img/eternite-10.jpg
+  - img/eternite-11.jpg
+  - img/eternite-12.jpg
+  - img/eternite-13.jpg
+  - img/eternite-14.jpg
+  - img/wemontreal-5.jpg
+  - img/wemontreal-8.jpg
+  - img/wemontreal-14.jpg
+
+
+#  - img/refugeboisrond-6.jpg
 
 # skin to use for the map of this story.
 # choices are:
