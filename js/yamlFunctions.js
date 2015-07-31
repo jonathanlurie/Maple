@@ -32,9 +32,47 @@ function loadYmlFile(ymlFile, doSomething){
 }
 
 
+
+function displaySplash(story){
+
+  $('#splashContent').hide();
+  // splash screen
+  $("#splashTitle").html(story.title);
+  $("#splashSubtitle").html(story.subtitle);
+  //$("#splashDate").html(getFormatedDate(story.date));
+  //$("#splashAuthor").html(story.author);
+
+  $("#splashDateAuthor").html(getFormatedDate(story.date) + " by " + story.author + ".");
+
+
+
+  $("#splashMiniProfile").attr("src", "img/profile/" + story.author.replace(' ', '_') + ".jpg");
+  $('#splashContent').fadeIn(1000);
+
+
+  // the next lines are a trick to display the splash cover only
+  // once it's fully loaded
+  var image = story.coverImage,
+      img = $('<img />');
+
+  img.bind('load', function() {
+    // Background image has loaded.
+    $('#splashCover').hide();
+    $('#splashCover').css("background-image", "url("+story.coverImage+")");
+    $('#splashCover').css("background-size", "cover");
+    $('#splashCover').css("background-position", "center 50%");
+    $('#splashCover').fadeIn(1000);
+
+  });
+  img.attr('src', image);
+
+
+}
+
 // display a story by its name
 function displayOneStory(story){
-  console.log(story);
+
+  displaySplash(story);
 
 
   // displaying the fields
@@ -53,7 +91,6 @@ function displayOneStory(story){
 
 
   loadMdFile(story.text, displayFullText, failedToLoadStory);
-
   gpxList = story.gps;
   positionAndZoom = [];
   markersArray = [];
@@ -79,12 +116,11 @@ function displayImage(imgs){
     $("#imageRoll").hide();
   }
 
+/*
   for(i=0; i<imgs.length; i++){
-
-
     $("#imageRoll").append('<img class="rolledImage" src="' + imgs[i] + '" onclick="localizeImageOnclick(this)" />');
-
   }
+*/
 
 }
 
@@ -167,5 +203,27 @@ function showStoryPanel(){
     $("#arrowUnfoldDiv").hide();
 
   });
+
+}
+
+
+
+function openSplash(){
+
+  $( "#splash" ).fadeTo( "slow" , 0, function() {
+    // Animation complete.
+    $( "#splash" ).hide();
+  });
+
+
+  $( "#splashContent" ).animate({
+    'margin-top' : '+=50%'
+  }, {
+    duration: 1000,
+    complete: function() {
+      $("#splashContent").hide();
+    }
+  });
+
 
 }

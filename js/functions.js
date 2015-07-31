@@ -489,8 +489,11 @@ function addGeoImageAfterCheck(f) {
 			*/
 			popupDesc = desc + '<br><a href="' + f +  '" class="fancybox" target="_blank"><img src="' + f  + '" width="300px"></a>';
 
-      $("img[src$='" + f + "']").attr('lat', lat);
-      $("img[src$='" + f + "']").attr('lon', lon);
+      //$("img[src$='" + f + "']").attr('lat', lat);
+      //$("img[src$='" + f + "']").attr('lon', lon);
+
+      $("img[data-original$='" + f + "']").attr('lat', lat);
+      $("img[data-original$='" + f + "']").attr('lon', lon);
 
 			tmpMarker = L.marker([ lat , lon ], {icon: photoIcon}).bindPopup( popupDesc );
 

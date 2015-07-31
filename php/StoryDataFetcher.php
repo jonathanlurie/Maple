@@ -34,6 +34,9 @@ class StoryDataFetcher{
 
 		$metaStr = '';
 
+		// check ici:
+		// https://developers.facebook.com/docs/reference/opengraph/object-type/article
+
 		// regular
 		$metaStr .= $this->_buildMetaName("title", $this->_storyParser->getFieldValue("title")) ;
 		$metaStr .= $this->_buildMetaName("DC.title", $this->_storyParser->getFieldValue("title")) ;
@@ -57,12 +60,12 @@ class StoryDataFetcher{
 		$metaStr .= $this->_buildMetaProperty("og:url", "http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]");
 		$metaStr .= $this->_buildMetaProperty("og:description", $this->_storyParser->getFieldValue("excertp"));
 		$metaStr .= $this->_buildMetaProperty("og:updated_time", $this->_storyParser->getFieldValue("date"));
-		$metaStr .= $this->_buildMetaProperty("og:image", $this->_storyParser->getFieldValue("coverImage"));
+		$metaStr .= $this->_buildMetaProperty("og:image", "http://$_SERVER[HTTP_HOST]/".$this->_storyParser->getFieldValue("coverImage"));
 		$metaStr .= $this->_buildMetaProperty("og:image:type", "image/jpeg");
 		$metaStr .= $this->_buildMetaProperty("article:published_time", $this->_storyParser->getFieldValue("date"));
 		$metaStr .= $this->_buildMetaProperty("article:modified_time", $this->_storyParser->getFieldValue("date"));
-		$metaStr .= $this->_buildMetaProperty("article:author", $this->_storyParser->getFieldValue("author"));
-		$metaStr .= $this->_buildMetaProperty("article:publisher", $this->_storyParser->getFieldValue("author"));
+		//$metaStr .= $this->_buildMetaProperty("article:author", $this->_storyParser->getFieldValue("author"));
+		//$metaStr .= $this->_buildMetaProperty("article:publisher", $this->_storyParser->getFieldValue("author"));
 
 		$keywords = explode(',', $this->_storyParser->getFieldValue("keywords"));
 
@@ -83,6 +86,33 @@ class StoryDataFetcher{
 		return $t;
 	}
 
+
+	function buildImageRoll(){
+		$images = $this->_storyParser->getFieldValue("images");
+
+		$imgRollHtml = "";
+
+		foreach ($images as $img){
+			$size = getimagesize($img);
+			//var_dump($size);
+			//width="1001" height="1500"
+			$sizeString = ' width="80" height="'. (int)($size[1]/$size[0]*80) .'" ';
+			$imgRollHtml .= '<img class="lazy rolledImage" data-original="'.$img.'" onclick="localizeImageOnclick(this)" '. $sizeString .'>';
+		}
+
+		return $imgRollHtml;
+	}
+
+
+
+	function buildSplashCoverDiv(){
+		$cover = $this->_storyParser->getFieldValue("coverImage");
+
+		//$divHTML = '<div id="splashCover"> <img id="splashCoverImg" class="lazy" data-original="'.$cover.'"> </div>';
+		$divHTML = '<div id="splashCover"></div>';
+
+		return $divHTML;
+	}
 
 
 }

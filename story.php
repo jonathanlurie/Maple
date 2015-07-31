@@ -80,6 +80,9 @@ $sdf = new StoryDataFetcher("story-one");
 				<!-- necessary for fontawesome -->
 				<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 
+				<!-- necessary for image lazy-loading -->
+				<script src="js/jquerylazyload/jquery.lazyload.js" type="text/javascript"></script>
+
         <!-- necessary for this project -->
         <script src="js/constants.js"></script>
       	<script src="js/functions.js"></script>
@@ -94,6 +97,31 @@ $sdf = new StoryDataFetcher("story-one");
     </head>
 
     <body>
+
+			<!-- The splash is displayed at the very begining, covers everything -->
+			<div id="splash">
+				<?php
+					// from server because we need lazyloading
+					echo $sdf->buildSplashCoverDiv();
+				?>
+
+
+				<div id="splashContent">
+
+          <h1 id="splashTitle" class="glowy"></h1>
+          <h2 id="splashSubtitle" class="glowy"></h2>
+          <p id="splashTextInfo" class="glowy"><img id="splashMiniProfile"><span id="splashDateAuthor"></span></p>
+
+					<div id="readDiv" onclick="openSplash();">
+						<p class="noPaddingNoMargin fontsize30">read story</p>
+						<i class="fa fa-angle-double-down readArrow"></i>
+
+					</div>
+
+				</div>
+
+
+			</div>
 
       <div id="map"></div>
 
@@ -133,6 +161,9 @@ $sdf = new StoryDataFetcher("story-one");
       </div>
 
 			<div id="imageRoll" >
+				<?php
+					echo $sdf->buildImageRoll();
+				?>
 			</div>
 
 
@@ -146,12 +177,11 @@ $sdf = new StoryDataFetcher("story-one");
 
       <script>
 
-
-
       // create map instance
       var map = new L.Map('map',  {zoomControl: false, center: new L.LatLng(0, 0), zoom: 11});
       var zoomHome = null;
 			var wideBounds = null;
+
 
 			$("a[href$='.jpg'],a[href$='.png'],a[href$='.gif']").attr('rel', 'gallery').fancybox();
 
@@ -167,8 +197,13 @@ $sdf = new StoryDataFetcher("story-one");
 
 
 
+			// activating lazyload
+			$("img.lazy").lazyload();
 
-      $(document).ready(function(){
+
+
+
+
 
 				$("#arrowUnfoldDiv").hide();
 
@@ -181,7 +216,7 @@ $sdf = new StoryDataFetcher("story-one");
           loadYmlFile(storyFile, displayOneStory);
         }
 
-      });
+
 
 
 
