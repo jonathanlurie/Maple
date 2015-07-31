@@ -227,3 +227,10 @@ function openSplash(){
 
 
 }
+
+
+function refreshImageRoll(e)
+{
+    // resizing will force the browser to update the view
+    $(window).resize();
+}

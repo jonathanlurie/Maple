@@ -113,8 +113,15 @@ $sdf = new StoryDataFetcher("story-one");
           <p id="splashTextInfo" class="glowy"><img id="splashMiniProfile"><span id="splashDateAuthor"></span></p>
 
 					<div id="readDiv" onclick="openSplash();">
-						<p class="noPaddingNoMargin fontsize30">read story</p>
-						<i class="fa fa-angle-double-down readArrow"></i>
+						<p class="noPaddingNoMargin fontsize30">read the story</p>
+						<!--
+						<i class="fa fa-bolt readArrow"></i>
+						<i class="fa fa-globe readArrow"></i>
+						<i class="fa fa-map readArrow"></i>
+						<i class="fa fa-quote-right readArrow"></i>
+						-->
+
+						<i class="fa fa-map-o readArrow"></i>
 
 					</div>
 
@@ -183,6 +190,8 @@ $sdf = new StoryDataFetcher("story-one");
 			var wideBounds = null;
 
 
+			$( document ).ready(function() {
+
 			$("a[href$='.jpg'],a[href$='.png'],a[href$='.gif']").attr('rel', 'gallery').fancybox();
 
 			$(".fancybox").fancybox({
@@ -198,30 +207,30 @@ $sdf = new StoryDataFetcher("story-one");
 
 
 			// activating lazyload
-			$("img.lazy").lazyload();
+			//$("img.lazy").lazyload();
 
+			$("img.lazy").lazyload({
+    		threshold : 200
+			});
 
+			$("#arrowUnfoldDiv").hide();
 
+      // check if there is a file specified in URL.
+      // we are looking for a yml extensioned file (story.yml)
+      storyFile=gup('story');
 
+      // load the file from url
+      if(storyFile != null){
+        loadYmlFile(storyFile, displayOneStory);
+      }
 
+			// Due to lazyload, image were not displayed when scrolling down
+			$('#imageRoll').bind('scroll',refreshImageRoll);
 
-				$("#arrowUnfoldDiv").hide();
-
-        // check if there is a file specified in URL.
-        // we are looking for a yml extensioned file (story.yml)
-        storyFile=gup('story');
-
-        // load the file from url
-        if(storyFile != null){
-          loadYmlFile(storyFile, displayOneStory);
-        }
-
-
-
+		});
 
 
       </script>
-
 
     </body>
 </html>
